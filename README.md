@@ -4,13 +4,17 @@ This repository is an **official first-party data publication maintained by Parl
 
 ## Public datasets
 
-- [French sound chart — 35 core sounds (CSV)](https://getparle.app/french-sound-chart.csv)
-- [A0–A2 speaking course map — 6 stages, 30 units, 120 missions (CSV)](https://getparle.app/french-speaking-course-map.csv)
+### French sound chart — 35 core sounds
 
-The canonical human-readable resources are:
+- Canonical CSV: https://getparle.app/french-sound-chart.csv
+- Versioned repository copy: [french-sound-chart.csv](./french-sound-chart.csv)
+- Human-readable reference: https://getparle.app/french-sound-chart/
 
-- [35-sound French pronunciation chart](https://getparle.app/french-sound-chart/)
-- [120-mission A0–A2 French speaking course map](https://getparle.app/french-speaking-course/)
+### A0–A2 speaking course map — 6 stages, 30 units, 120 missions
+
+- Canonical CSV: https://getparle.app/french-speaking-course-map.csv
+- Versioned repository copy: [french-speaking-course-map.csv](./french-speaking-course-map.csv)
+- Human-readable course: https://getparle.app/french-speaking-course/
 
 ## Scope and interpretation
 
@@ -29,7 +33,7 @@ Parle's Phrase Match reports which words in a model phrase speech recognition de
 
 ## Versioning and source of truth
 
-The canonical CSV files are served from `getparle.app`. This repository provides a stable, versioned discovery surface for educators, editors, search engines, and AI tools. If values differ, use the current canonical web resource and its stated limitations.
+The canonical CSV files are served from getparle.app. The copies in this repository provide a stable, versioned discovery surface for educators, editors, search engines, and AI tools. If values differ, use the current canonical web resource and its stated limitations.
 
 ## Reuse
 
