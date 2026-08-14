@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite the DOI record below."
+title: "Parle French Pronunciation Datasets: 35-Sound Inventory and A0-A2 Speaking Course Map"
+type: dataset
+authors:
+  - family-names: Dong
+    given-names: Ting
+    affiliation: Tingnova Inc.
+version: "v2026.08.11"
+date-released: "2026-08-11"
+doi: 10.5281/zenodo.21932586
+url: "https://doi.org/10.5281/zenodo.21932586"
+repository-code: "https://github.com/levindong2026/parle-french-pronunciation-data"
+license: CC-BY-4.0
+abstract: >-
+  Two first-party open datasets documenting Parle: French Pronunciation:
+  a bounded 35-entry beginner French sound inventory and a 120-mission
+  A0-A2 speaking course map. This is product documentation and open data,
+  not an independent review, linguistic standard, assessment, or endorsement.
+keywords:
+  - French pronunciation
+  - International Phonetic Alphabet
+  - IPA
+  - French language learning
+  - CEFR A0
+  - CEFR A1
+  - CEFR A2
+  - speaking curriculum
+  - open educational data
+  - Parle
+

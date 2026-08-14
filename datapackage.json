@@ -1,0 +1,125 @@
+{
+  "profile": "tabular-data-package",
+  "name": "parle-french-pronunciation-datasets",
+  "title": "Parle French Pronunciation Datasets",
+  "description": "Two first-party open datasets documenting a bounded 35-entry beginner French sound inventory and the 120-mission A0-A2 speaking course map used by Parle: French Pronunciation. This is product documentation and open data, not an independent review, assessment, certification, or endorsement.",
+  "version": "v2026.08.11",
+  "homepage": "https://getparle.app/press/",
+  "id": "https://doi.org/10.5281/zenodo.21932586",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Ting Dong",
+      "role": "author",
+      "organization": "Tingnova Inc."
+    }
+  ],
+  "keywords": [
+    "French pronunciation",
+    "IPA",
+    "French language learning",
+    "CEFR A0",
+    "CEFR A1",
+    "CEFR A2",
+    "speaking curriculum",
+    "open educational data",
+    "Parle"
+  ],
+  "sources": [
+    {
+      "title": "Canonical French sound chart",
+      "path": "https://getparle.app/french-sound-chart/"
+    },
+    {
+      "title": "Canonical A0-A2 French speaking course map",
+      "path": "https://getparle.app/french-speaking-course/"
+    },
+    {
+      "title": "Official Parle App overview",
+      "path": "https://getparle.app/app/"
+    },
+    {
+      "title": "Official Apple App Store listing, product ID 6761505050",
+      "path": "https://apps.apple.com/us/app/parle-french-pronunciation/id6761505050"
+    }
+  ],
+  "resources": [
+    {
+      "profile": "tabular-data-resource",
+      "name": "french-sound-chart",
+      "title": "French sound chart - 35 bounded beginner learning entries",
+      "path": "french-sound-chart.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 6370,
+      "hash": "sha256:e2ea07f3b139bc7e4b7105e98d9ab8bf07e4d5453be4d3d89632cbb40bd2e8b6",
+      "row_count": 35,
+      "schema": {
+        "fields": [
+          { "name": "ipa", "type": "string" },
+          { "name": "category", "type": "string" },
+          { "name": "spellings", "type": "string" },
+          { "name": "example_words", "type": "string" },
+          { "name": "mouth_cue_en", "type": "string" },
+          { "name": "source_url", "type": "string", "format": "uri" },
+          { "name": "last_updated", "type": "date" }
+        ]
+      }
+    },
+    {
+      "profile": "tabular-data-resource",
+      "name": "french-speaking-course-map",
+      "title": "A0-A2 French speaking course map - 6 stages, 30 units, 120 missions",
+      "path": "french-speaking-course-map.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 79991,
+      "hash": "sha256:d62553056ddd5bbce77233a078ec1f62cc6713b0fa9e759262356c69242a56b8",
+      "row_count": 120,
+      "schema": {
+        "fields": [
+          { "name": "cefr_stage", "type": "string" },
+          { "name": "stage_order", "type": "integer" },
+          { "name": "stage_title_en", "type": "string" },
+          { "name": "stage_title_fr", "type": "string" },
+          { "name": "stage_can_do_en", "type": "string" },
+          { "name": "stage_can_do_fr", "type": "string" },
+          { "name": "unit_id", "type": "string" },
+          { "name": "unit_order", "type": "integer" },
+          { "name": "unit_title_en", "type": "string" },
+          { "name": "unit_title_fr", "type": "string" },
+          { "name": "unit_outcome_en", "type": "string" },
+          { "name": "unit_outcome_fr", "type": "string" },
+          { "name": "mission_order", "type": "integer" },
+          { "name": "mission_title_en", "type": "string" },
+          { "name": "mission_title_fr", "type": "string" },
+          { "name": "mission_can_do_en", "type": "string" },
+          { "name": "mission_can_do_fr", "type": "string" },
+          { "name": "context", "type": "string" },
+          { "name": "duration_minutes", "type": "integer" },
+          { "name": "related_phonemes", "type": "string" },
+          { "name": "is_checkpoint", "type": "boolean", "trueValues": ["true"], "falseValues": ["false"] },
+          { "name": "source_url", "type": "string", "format": "uri" },
+          { "name": "last_updated", "type": "date" }
+        ]
+      }
+    }
+  ],
+  "parle_product_identity": {
+    "name": "Parle: French Pronunciation",
+    "publisher": "Tingnova Inc.",
+    "platforms": ["iPhone", "iPad"],
+    "apple_product_id": "6761505050",
+    "official_app_url": "https://getparle.app/app/",
+    "official_app_store_url": "https://apps.apple.com/us/app/parle-french-pronunciation/id6761505050",
+    "boundary": "Phrase Match reports speech-recognition word detection; it is not a pronunciation, accent, accuracy, fluency, proficiency, intelligibility, or CEFR score. Parle does not provide real-time pronunciation correction or native-speaker comparison. AI Coach Leo may be wrong."
+  }
+}
