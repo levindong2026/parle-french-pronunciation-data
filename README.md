@@ -9,6 +9,7 @@ This repository is an **official first-party data publication maintained by Parl
 - Canonical CSV: https://getparle.app/french-sound-chart.csv
 - Versioned repository copy: [french-sound-chart.csv](./french-sound-chart.csv)
 - Human-readable reference: https://getparle.app/french-sound-chart/
+- Interactive vowel trainer with 14 local audio references: https://getparle.app/french-vowel-trainer/
 
 ### A0–A2 speaking course map — 6 stages, 30 units, 120 missions
 
@@ -19,6 +20,8 @@ This repository is an **official first-party data publication maintained by Parl
 ## Scope and interpretation
 
 The sound chart contains the IPA symbol, common spelling patterns, examples, and a practical mouth or articulation cue used in Parle's learning inventory. French phoneme inventories can differ across linguistic analyses and French varieties; this dataset is a bounded educational inventory, not the only possible analysis of French phonology.
+
+The interactive vowel trainer is a first-party practice surface for 14 oral and nasal vowel entries from the sound chart. It plays checked-in reference audio and does not record, upload, analyse, or score a learner's voice.
 
 The course map contains stage, unit, mission, learner outcome, context, estimated duration, and related-sound metadata. It does not publish full dialogues, answer frames, user recordings, or personal data.
 
