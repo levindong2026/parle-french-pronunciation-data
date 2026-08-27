@@ -9,6 +9,7 @@ This repository is an **official first-party data publication maintained by Parl
 - Canonical CSV: https://getparle.app/french-sound-chart.csv
 - Versioned repository copy: [french-sound-chart.csv](./french-sound-chart.csv)
 - Human-readable reference: https://getparle.app/french-sound-chart/
+- Printable teacher reference (3-page A4 PDF, CC BY 4.0): https://getparle.app/french-sound-chart-teacher-reference.pdf
 - Interactive vowel trainer with 14 local audio references: https://getparle.app/french-vowel-trainer/
 
 ### A0–A2 speaking course map — 6 stages, 30 units, 120 missions
@@ -40,15 +41,16 @@ The canonical CSV files are served from getparle.app. The copies in this reposit
 
 ## Versioned distributions and citation
 
-The stable `v2026.08.11` release is available through several creator-maintained first-party distribution and citation services:
+The current GitHub distribution is `v2026.08.27`. It adds the printable teacher-reference PDF; the two CSV datasets are byte-for-byte unchanged from `v2026.08.11`.
 
-- [GitHub Release `v2026.08.11`](https://github.com/levindong2026/parle-french-pronunciation-data/releases/tag/v2026.08.11)
-- [Zenodo record and DOI `10.5281/zenodo.21932586`](https://doi.org/10.5281/zenodo.21932586)
+- [GitHub Release `v2026.08.27`](https://github.com/levindong2026/parle-french-pronunciation-data/releases/tag/v2026.08.27)
+- [Zenodo all-versions DOI `10.5281/zenodo.21932585`](https://doi.org/10.5281/zenodo.21932585)
+- [Archived Zenodo `v2026.08.11` record, DOI `10.5281/zenodo.21932586`](https://doi.org/10.5281/zenodo.21932586)
 - [Hugging Face Dataset with browser-based Dataset Viewer](https://huggingface.co/datasets/Levindong/parle-french-pronunciation-datasets)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/levin2023/parle-french-pronunciation-datasets)
 
-These records distribute or describe the same first-party Parle data release. They are not independent reviews, recommendations, or endorsements. The current canonical CSV files on `getparle.app` remain the source of truth.
+These records distribute or describe first-party Parle data. They are not independent reviews, recommendations, or endorsements. The current canonical files on `getparle.app` remain the source of truth. No Zenodo `v2026.08.27` archive is claimed here.
 
 ## Reuse
 
-The public structured data may be quoted or adapted with attribution to **Parle** and a link to the relevant canonical resource. Parle trademarks, app artwork, screenshots, lesson dialogues, and other materials are not relicensed by this data-reuse statement.
+The two public datasets and printable teacher reference may be quoted or adapted under CC BY 4.0 with attribution to **Parle** and a link to the relevant canonical resource. Parle trademarks, app artwork, screenshots, lesson dialogues, and other materials are not relicensed by this data-reuse statement.

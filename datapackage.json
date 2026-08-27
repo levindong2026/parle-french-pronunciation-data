@@ -2,10 +2,10 @@
   "profile": "tabular-data-package",
   "name": "parle-french-pronunciation-datasets",
   "title": "Parle French Pronunciation Datasets",
-  "description": "Two first-party open datasets documenting a bounded 35-entry beginner French sound inventory and the 120-mission A0-A2 speaking course map used by Parle: French Pronunciation. This is product documentation and open data, not an independent review, assessment, certification, or endorsement.",
-  "version": "v2026.08.11",
+  "description": "Two first-party open datasets documenting a bounded 35-entry beginner French sound inventory and the 120-mission A0-A2 speaking course map used by Parle: French Pronunciation, plus a printable teacher-reference PDF. This is product documentation and open educational material, not an independent review, assessment, certification, or endorsement.",
+  "version": "v2026.08.27",
   "homepage": "https://getparle.app/press/",
-  "id": "https://doi.org/10.5281/zenodo.21932586",
+  "id": "https://doi.org/10.5281/zenodo.21932585",
   "licenses": [
     {
       "name": "CC-BY-4.0",
@@ -35,6 +35,10 @@
     {
       "title": "Canonical French sound chart",
       "path": "https://getparle.app/french-sound-chart/"
+    },
+    {
+      "title": "Printable French sound chart teacher reference",
+      "path": "https://getparle.app/french-sound-chart-teacher-reference.pdf"
     },
     {
       "title": "Interactive French vowel pronunciation trainer",
@@ -115,6 +119,16 @@
           { "name": "last_updated", "type": "date" }
         ]
       }
+    },
+    {
+      "profile": "data-resource",
+      "name": "french-sound-chart-teacher-reference",
+      "title": "Printable French sound chart teacher reference - 3-page A4 PDF",
+      "path": "https://getparle.app/french-sound-chart-teacher-reference.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "bytes": 53712,
+      "hash": "sha256:cb46d629984e169ee356ad416470802460d33d0fac05a91e4d5f2732acd6bf20"
     }
   ],
   "parle_product_identity": {
