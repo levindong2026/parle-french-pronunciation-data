@@ -57,7 +57,7 @@ La distribution GitHub actuelle est `v2026.08.27`. Elle comprend le dossier péd
 - [DOI Zenodo toutes versions `10.5281/zenodo.21932585`](https://doi.org/10.5281/zenodo.21932585)
 - [Archive Zenodo `v2026.08.11`, DOI `10.5281/zenodo.21932586`](https://doi.org/10.5281/zenodo.21932586)
 - [Jeu de données Hugging Face — instantané `v2026.08.11` ; GitHub `v2026.08.27` est la version actuelle](https://huggingface.co/datasets/Levindong/parle-french-pronunciation-datasets)
-- [Jeu de données Kaggle](https://www.kaggle.com/datasets/levin2023/parle-french-pronunciation-datasets)
+- [Jeu de données Kaggle — `v2026.08.27` ; Kaggle développe le ZIP pédagogique pour une consultation fichier par fichier](https://www.kaggle.com/datasets/levin2023/parle-french-pronunciation-datasets/versions/2)
 - [Métadonnées de citation](./CITATION.cff)
 
 Ces références diffusent ou décrivent des données de première partie publiées par Parle. Elles ne constituent pas des avis, recommandations ou validations indépendantes. Aucune archive Zenodo `v2026.08.27` n'est revendiquée ici.

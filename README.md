@@ -58,7 +58,7 @@ The current GitHub distribution is `v2026.08.27`. It includes the complete open 
 - [Zenodo all-versions DOI `10.5281/zenodo.21932585`](https://doi.org/10.5281/zenodo.21932585)
 - [Archived Zenodo `v2026.08.11` record, DOI `10.5281/zenodo.21932586`](https://doi.org/10.5281/zenodo.21932586)
 - [Hugging Face Dataset Viewer — `v2026.08.11` snapshot; GitHub `v2026.08.27` is current](https://huggingface.co/datasets/Levindong/parle-french-pronunciation-datasets)
-- [Kaggle Dataset](https://www.kaggle.com/datasets/levin2023/parle-french-pronunciation-datasets)
+- [Kaggle Dataset — `v2026.08.27`; Kaggle expands the teaching-pack ZIP for per-file browsing](https://www.kaggle.com/datasets/levin2023/parle-french-pronunciation-datasets/versions/2)
 
 These records distribute or describe first-party Parle data. They are not independent reviews, recommendations, or endorsements. The current canonical files on `getparle.app` remain the source of truth. No Zenodo `v2026.08.27` archive is claimed here.
 
