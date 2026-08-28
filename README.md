@@ -1,5 +1,7 @@
 # Parle French pronunciation datasets
 
+[English](./README.md) · [Français](./README.fr.md)
+
 This repository is an **official first-party data publication maintained by Parle**. It does not represent an independent review, endorsement, linguistic standard, or clinical assessment.
 
 ## Public datasets
