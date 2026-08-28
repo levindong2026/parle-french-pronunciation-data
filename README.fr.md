@@ -14,6 +14,15 @@ Ce dépôt est une **publication officielle de données produite et maintenue pa
 - Référence imprimable pour enseignants (PDF A4 de 3 pages, CC BY 4.0) : https://getparle.app/french-sound-chart-teacher-reference.pdf
 - Entraîneur interactif des voyelles avec 14 références audio locales : https://getparle.app/french-vowel-trainer/
 
+### Dossier pédagogique ouvert complet
+
+- [Télécharger le dossier pédagogique ZIP versionné](https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-sound-chart-open-teaching-pack.zip) — 35 fichiers M4A, CSV, référence imprimable, fiches de séance modifiables en anglais et en français, fiche bilingue avec corrigé, licence CC BY 4.0 et manifeste SHA-256
+- [Télécharger la référence enseignant PDF versionnée](https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/french-sound-chart-teacher-reference.pdf)
+- [Télécharger la fiche bilingue /u/–/y/](https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-u-y-learner-worksheet.pdf)
+- [Télécharger le corrigé bilingue](https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-u-y-answer-key.pdf)
+- Collection pédagogique en anglais : https://getparle.app/french-pronunciation-teaching-resources/
+- Collection pédagogique en français : https://getparle.app/ressources-pedagogiques-prononciation-francaise/
+
 Le tableau présente, pour chaque entrée, le symbole API, des graphies fréquentes, des exemples et un repère articulatoire pratique. Les inventaires phonologiques du français varient selon les analyses et les variétés : cette sélection de 35 sons est un inventaire pédagogique délimité, et non l'unique analyse possible de la phonologie française.
 
 ### Parcours d'expression orale A0–A2 — 6 étapes, 30 unités, 120 missions
@@ -42,7 +51,7 @@ Dans l'application, Phrase Match indique les mots du modèle que la reconnaissan
 
 Les CSV canoniques sont publiés sur `getparle.app`. Les copies de ce dépôt offrent une surface stable et versionnée aux enseignants, éditeurs, moteurs de recherche et outils d'IA. En cas de différence, utilisez la ressource canonique actuelle et ses limites déclarées.
 
-La distribution GitHub actuelle est `v2026.08.27`. Elle ajoute la référence PDF imprimable ; les deux CSV sont strictement identiques à ceux de `v2026.08.11`.
+La distribution GitHub actuelle est `v2026.08.27`. Elle comprend le dossier pédagogique ZIP complet, la référence PDF imprimable, la fiche bilingue et son corrigé, les métadonnées de citation et les sommes de contrôle SHA-256. Les deux CSV sont strictement identiques à ceux de `v2026.08.11`.
 
 - [Version GitHub `v2026.08.27`](https://github.com/levindong2026/parle-french-pronunciation-data/releases/tag/v2026.08.27)
 - [DOI Zenodo toutes versions `10.5281/zenodo.21932585`](https://doi.org/10.5281/zenodo.21932585)
@@ -55,4 +64,4 @@ Ces références diffusent ou décrivent des données de première partie publi�
 
 ## Réutilisation
 
-Les deux jeux de données publics et la référence imprimable pour enseignants peuvent être cités ou adaptés sous licence [CC BY 4.0](./LICENSE), avec attribution à **Parle** et lien vers la ressource canonique correspondante. Les marques Parle, visuels de l'application, captures d'écran, dialogues pédagogiques et autres contenus ne sont pas couverts par cette autorisation de réutilisation des données.
+Les deux jeux de données publics, les fichiers du dossier pédagogique et la référence imprimable pour enseignants peuvent être cités ou adaptés sous licence [CC BY 4.0](./LICENSE), avec attribution à **Parle** et lien vers la ressource canonique correspondante. Les marques Parle, visuels de l'application, captures d'écran, dialogues pédagogiques hors dossier ouvert et autres contenus ne sont pas couverts par cette autorisation de réutilisation.

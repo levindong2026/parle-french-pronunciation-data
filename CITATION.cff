@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these materials, cite the all-versions Zenodo DOI and identify the GitHub release used."
-title: "Parle French Pronunciation Datasets and Printable Teacher Reference"
+title: "Parle French Pronunciation Datasets and Open Teaching Pack"
 type: dataset
 authors:
   - family-names: Dong
@@ -15,11 +15,12 @@ license: CC-BY-4.0
 abstract: >-
   Two first-party open datasets documenting Parle: French Pronunciation:
   a bounded 35-entry beginner French sound inventory and a 120-mission
-  A0-A2 speaking course map, plus a printable teacher-reference PDF. The CSV
-  files are unchanged from v2026.08.11. This is product documentation and open
-  educational material, not an independent review, linguistic standard,
-  assessment, certification, or endorsement. The DOI is the Zenodo concept DOI;
-  no Zenodo v2026.08.27 archive is claimed.
+  A0-A2 speaking course map, plus a printable teacher-reference PDF and an open
+  teaching pack with 35 audio clips, editable lesson plans, a bilingual learner
+  worksheet, and answer key. The CSV files are unchanged from v2026.08.11. This
+  is product documentation and open educational material, not an independent
+  review, linguistic standard, assessment, certification, or endorsement. The
+  DOI is the Zenodo concept DOI; no Zenodo v2026.08.27 archive is claimed.
 keywords:
   - French pronunciation
   - International Phonetic Alphabet
@@ -30,4 +31,6 @@ keywords:
   - CEFR A2
   - speaking curriculum
   - open educational data
+  - open teaching pack
+  - French teaching resources
   - Parle

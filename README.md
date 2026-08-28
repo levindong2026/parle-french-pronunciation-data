@@ -14,6 +14,15 @@ This repository is an **official first-party data publication maintained by Parl
 - Printable teacher reference (3-page A4 PDF, CC BY 4.0): https://getparle.app/french-sound-chart-teacher-reference.pdf
 - Interactive vowel trainer with 14 local audio references: https://getparle.app/french-vowel-trainer/
 
+### Complete open teaching pack
+
+- [Download the versioned open teaching pack ZIP](https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-sound-chart-open-teaching-pack.zip) — 35 M4A clips, CSV, printable reference, editable English and French lesson plans, bilingual worksheet and answer key, CC BY 4.0 licence, and SHA-256 manifest
+- [Download the versioned teacher-reference PDF](https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/french-sound-chart-teacher-reference.pdf)
+- [Download the bilingual /u/–/y/ learner worksheet](https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-u-y-learner-worksheet.pdf)
+- [Download the bilingual answer key](https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-u-y-answer-key.pdf)
+- English teacher-resource collection: https://getparle.app/french-pronunciation-teaching-resources/
+- French teacher-resource collection: https://getparle.app/ressources-pedagogiques-prononciation-francaise/
+
 ### A0–A2 speaking course map — 6 stages, 30 units, 120 missions
 
 - Canonical CSV: https://getparle.app/french-speaking-course-map.csv
@@ -43,7 +52,7 @@ The canonical CSV files are served from getparle.app. The copies in this reposit
 
 ## Versioned distributions and citation
 
-The current GitHub distribution is `v2026.08.27`. It adds the printable teacher-reference PDF; the two CSV datasets are byte-for-byte unchanged from `v2026.08.11`.
+The current GitHub distribution is `v2026.08.27`. It includes the complete open teaching-pack ZIP, printable teacher-reference PDF, bilingual worksheet and answer key, machine-readable citation files, and SHA-256 checksums. The two CSV datasets are byte-for-byte unchanged from `v2026.08.11`.
 
 - [GitHub Release `v2026.08.27`](https://github.com/levindong2026/parle-french-pronunciation-data/releases/tag/v2026.08.27)
 - [Zenodo all-versions DOI `10.5281/zenodo.21932585`](https://doi.org/10.5281/zenodo.21932585)
@@ -55,4 +64,4 @@ These records distribute or describe first-party Parle data. They are not indepe
 
 ## Reuse
 
-The two public datasets and printable teacher reference may be quoted or adapted under CC BY 4.0 with attribution to **Parle** and a link to the relevant canonical resource. Parle trademarks, app artwork, screenshots, lesson dialogues, and other materials are not relicensed by this data-reuse statement.
+The two public datasets, teaching-pack files, and printable teacher reference may be quoted or adapted under CC BY 4.0 with attribution to **Parle** and a link to the relevant canonical resource. Parle trademarks, app artwork, screenshots, lesson dialogues outside the open pack, and other materials are not relicensed by this data-reuse statement.

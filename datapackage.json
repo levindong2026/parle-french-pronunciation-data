@@ -1,8 +1,8 @@
 {
   "profile": "tabular-data-package",
   "name": "parle-french-pronunciation-datasets",
-  "title": "Parle French Pronunciation Datasets",
-  "description": "Two first-party open datasets documenting a bounded 35-entry beginner French sound inventory and the 120-mission A0-A2 speaking course map used by Parle: French Pronunciation, plus a printable teacher-reference PDF. This is product documentation and open educational material, not an independent review, assessment, certification, or endorsement.",
+  "title": "Parle French Pronunciation Datasets and Open Teaching Pack",
+  "description": "Two first-party open datasets documenting a bounded 35-entry beginner French sound inventory and the 120-mission A0-A2 speaking course map used by Parle: French Pronunciation, plus a printable teacher reference and an open teaching pack with audio, editable lesson plans, a bilingual worksheet, and answer key. This is product documentation and open educational material, not an independent review, assessment, certification, or endorsement.",
   "version": "v2026.08.27",
   "homepage": "https://getparle.app/press/",
   "id": "https://doi.org/10.5281/zenodo.21932585",
@@ -29,6 +29,8 @@
     "CEFR A2",
     "speaking curriculum",
     "open educational data",
+    "open teaching pack",
+    "French teaching resources",
     "Parle"
   ],
   "sources": [
@@ -39,6 +41,14 @@
     {
       "title": "Printable French sound chart teacher reference",
       "path": "https://getparle.app/french-sound-chart-teacher-reference.pdf"
+    },
+    {
+      "title": "English French-pronunciation teaching-resource collection",
+      "path": "https://getparle.app/french-pronunciation-teaching-resources/"
+    },
+    {
+      "title": "French pronunciation teaching-resource collection",
+      "path": "https://getparle.app/ressources-pedagogiques-prononciation-francaise/"
     },
     {
       "title": "Interactive French vowel pronunciation trainer",
@@ -124,11 +134,41 @@
       "profile": "data-resource",
       "name": "french-sound-chart-teacher-reference",
       "title": "Printable French sound chart teacher reference - 3-page A4 PDF",
-      "path": "https://getparle.app/french-sound-chart-teacher-reference.pdf",
+      "path": "https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/french-sound-chart-teacher-reference.pdf",
       "format": "pdf",
       "mediatype": "application/pdf",
       "bytes": 53712,
       "hash": "sha256:cb46d629984e169ee356ad416470802460d33d0fac05a91e4d5f2732acd6bf20"
+    },
+    {
+      "profile": "data-resource",
+      "name": "parle-french-sound-chart-open-teaching-pack",
+      "title": "Complete open French sound-chart teaching pack",
+      "path": "https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-sound-chart-open-teaching-pack.zip",
+      "format": "zip",
+      "mediatype": "application/zip",
+      "bytes": 445935,
+      "hash": "sha256:1d9f22ed19ef84d2dfa2c00414846d07fab401e66221464b13e36ba9cbba2e7b"
+    },
+    {
+      "profile": "data-resource",
+      "name": "parle-french-u-y-learner-worksheet",
+      "title": "Bilingual French /u/ and /y/ learner worksheet",
+      "path": "https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-u-y-learner-worksheet.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "bytes": 31156,
+      "hash": "sha256:04069eeb620e90035c9c558b21641b47ec631dfcb43ef97dfe9c99ac51266c44"
+    },
+    {
+      "profile": "data-resource",
+      "name": "parle-french-u-y-answer-key",
+      "title": "Bilingual French /u/ and /y/ worksheet answer key",
+      "path": "https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-u-y-answer-key.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "bytes": 28520,
+      "hash": "sha256:cfb5530eabcf98666a3534ba0ebfe3eb15b89fe8dd42468d119651c391ac154e"
     }
   ],
   "parle_product_identity": {

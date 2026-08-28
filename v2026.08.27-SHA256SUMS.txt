@@ -1,0 +1,5 @@
+1d9f22ed19ef84d2dfa2c00414846d07fab401e66221464b13e36ba9cbba2e7b  parle-french-sound-chart-open-teaching-pack.zip
+cb46d629984e169ee356ad416470802460d33d0fac05a91e4d5f2732acd6bf20  french-sound-chart-teacher-reference.pdf
+e2ea07f3b139bc7e4b7105e98d9ab8bf07e4d5453be4d3d89632cbb40bd2e8b6  french-sound-chart.csv
+04069eeb620e90035c9c558b21641b47ec631dfcb43ef97dfe9c99ac51266c44  parle-french-u-y-learner-worksheet.pdf
+cfb5530eabcf98666a3534ba0ebfe3eb15b89fe8dd42468d119651c391ac154e  parle-french-u-y-answer-key.pdf
