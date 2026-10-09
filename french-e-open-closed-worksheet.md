@@ -2,6 +2,8 @@
 
 **English / Français · Beginners · Reviewed 9 October 2026**
 
+**Print for a class / Pour la classe :** [Download the two-page PDF](french-e-open-closed-worksheet.pdf) - learner worksheet and separate answer key, with audio QR/link. / Fiche élève et corrigé séparé, avec accès audio. This editable version and the PDF are free under CC BY 4.0.
+
 Published by the Parle developer as a free teaching resource. The writing is AI-assisted; the examples were checked against the linked Parle guide. This is first-party educational material, not an independent recommendation or a test of pronunciation quality.
 
 ## English: listen, choose, record
