@@ -10,6 +10,8 @@ Ce dépôt est une **publication officielle de données produite et maintenue pa
 
 [É /e/ et è /ɛ/ : fiche bilingue de cinq minutes](./french-e-open-closed-worksheet.md) — six mots, une phrase à lire, un corrigé et des références audio gratuites. L'activité web ne nécessite ni installation de l'application ni abonnement ; elle n'enregistre et ne note pas votre voix. Cette fiche a été ajoutée le 9 octobre 2026. Les anciens jeux de données et le ZIP pédagogique restent inchangés.
 
+[Ouvrir la collection pédagogique officielle](https://getparle.app/ressources-pedagogiques-prononciation-francaise/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#resource-collection) — téléchargement direct du PDF, fiche modifiable et références audio gratuites. Aucune installation de l'application n'est nécessaire.
+
 ## Ressources publiques
 
 ### Tableau des 35 sons français
