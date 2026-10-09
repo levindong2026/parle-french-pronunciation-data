@@ -4,6 +4,10 @@
 
 Ce dépôt est une **publication officielle de données produite et maintenue par Parle**. Il ne constitue ni un avis indépendant, ni une recommandation, ni une norme linguistique, ni une évaluation clinique.
 
+## Commencer par une activité gratuite
+
+[É /e/ et è /ɛ/ : fiche bilingue de cinq minutes](./french-e-open-closed-worksheet.md) — six mots, une phrase à lire, un corrigé et des références audio gratuites. L'activité web ne nécessite ni installation de l'application ni abonnement ; elle n'enregistre et ne note pas votre voix. Cette fiche a été ajoutée le 9 octobre 2026. Les anciens jeux de données et le ZIP pédagogique restent inchangés.
+
 ## Ressources publiques
 
 ### Tableau des 35 sons français
