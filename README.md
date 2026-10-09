@@ -4,6 +4,10 @@
 
 This repository is an **official first-party data publication maintained by Parle**. It does not represent an independent review, endorsement, linguistic standard, or clinical assessment.
 
+## Start with one free exercise
+
+[French é /e/ and è /ɛ/: bilingual five-minute worksheet](./french-e-open-closed-worksheet.md) — six word targets, a careful-reading phrase, an answer key and free playable vowel references. No app installation or subscription is needed for the web exercise. The page does not record or score your voice. This standalone worksheet was added on 9 October 2026; the older datasets and teaching-pack ZIP are unchanged.
+
 ## Public datasets
 
 ### French sound chart — 35 core sounds
