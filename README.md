@@ -6,6 +6,8 @@ This repository is an **official first-party data publication maintained by Parl
 
 ## Start with one free exercise
 
+[Your first French conversation: printable partner worksheet](french-first-conversation-worksheet.pdf) - four beginner speaking tasks, a separate answer page and links to all four published lessons. [Editable English/French source](french-first-conversation-worksheet.md). Free web models; CC BY 4.0.
+
 [Printable two-page é /e/ and è /ɛ/ worksheet](french-e-open-closed-worksheet.pdf) - separate learner and answer pages, with QR access to the free web audio. Editable source below; CC BY 4.0.
 
 [French é /e/ and è /ɛ/: bilingual five-minute worksheet](./french-e-open-closed-worksheet.md) — six word targets, a careful-reading phrase, an answer key and free playable vowel references. No app installation or subscription is needed for the web exercise. The page does not record or score your voice. This standalone worksheet was added on 9 October 2026; the older datasets and teaching-pack ZIP are unchanged.
