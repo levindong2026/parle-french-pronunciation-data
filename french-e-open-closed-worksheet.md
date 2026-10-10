@@ -52,6 +52,14 @@ Ouvrez [l'entraîneur gratuit des voyelles](https://getparle.app/french-vowel-tr
 3. **Dites une phrase.** Prononcez *Le café est prêt.* Dans une lecture soignée, *le* contient /ə/, *café* se termine par /e/, et *est* et *prêt* contiennent /ɛ/. Le schwa peut varier dans la parole naturelle. Enregistrez une fois avec votre propre outil.
 4. **Réécoutez avec un objectif.** Écoutez d'abord la fin de *café*, puis *est/prêt*. Choisissez un seul ajustement et recommencez. La reconnaissance des mots ne mesure ni la qualité de l'accent ni un niveau du CECRL.
 
+## Watch the matching lesson / Voir la leçon associée
+
+[French É vs È: hear /e/ and /ɛ/ — free video](https://www.youtube.com/watch?v=c8V2TFsZl0E) on Parle French Lab uses English instructions, synthesized isolated vowel models, learner pauses and two listening checks. Written words are examples, not whole-word recordings. Watch before this worksheet or use it to review the contrast; it does not replace the six-word activity or record or score your voice.
+
+[É et È : écouter /e/ et /ɛ/ — vidéo gratuite](https://www.youtube.com/watch?v=c8V2TFsZl0E), sur Parle French Lab, propose des consignes en anglais, des voyelles isolées synthétiques, des pauses et deux vérifications d’écoute. Les mots écrits sont des exemples, pas des enregistrements de mots complets. Utilisez la vidéo avant la fiche ou pour réviser le contraste ; elle ne remplace pas l’activité sur les six mots et n’enregistre ni ne note votre voix.
+
+Then [open the matching free web lesson](https://getparle.app/blog/french-e-vs-e-pronunciation/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_video_20261010) / Puis [ouvrez la leçon web gratuite associée](https://getparle.app/blog/french-e-vs-e-pronunciation/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_video_20261010). The video is a separate first-party, AI-assisted work; this worksheet's CC BY 4.0 licence does not relicense its audio or graphics. / La vidéo est une œuvre séparée de première partie, produite avec l’aide de l’IA ; la licence CC BY 4.0 de cette fiche ne s’étend pas aux sons ni aux visuels de la vidéo.
+
 ## Continue if the exercise helps / Pour continuer
 
 The [35-sound chart](https://getparle.app/french-sound-chart/?utm_source=github&utm_medium=referral&utm_campaign=e_worksheet_20261009) provides more spelling examples. For a guided speaking task, [First Contact](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=e_worksheet_20261009) explains the first four free Course missions in Parle for iPhone and iPad. The complete 120-mission course requires Premium. The worksheet and web audio remain free.

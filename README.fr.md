@@ -12,6 +12,36 @@ Ce dépôt est une **publication officielle de données produite et maintenue pa
 
 [Ouvrir la collection pédagogique officielle](https://getparle.app/ressources-pedagogiques-prononciation-francaise/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#resource-collection) — téléchargement direct du PDF, fiche modifiable et références audio gratuites. Aucune installation de l'application n'est nécessaire.
 
+## Vidéos gratuites : écouter, répéter, vérifier
+
+Choisissez une courte leçon sur [Parle French Lab (@ParleFrenchLab)](https://www.youtube.com/@ParleFrenchLab). Ces dix vidéos pour débutants sont gratuites : consignes en anglais, modèles audio en français, pauses pour s’entraîner et activité d’écoute ou jeu de rôle. Chaque leçon dure environ 90 secondes. Regardez, entraînez-vous pendant la pause, puis ouvrez l’exercice web associé ; aucune installation de l’application n’est nécessaire.
+
+### Prononciation et graphies
+
+| Objectif | Vidéo | Exercice web gratuit |
+| --- | --- | --- |
+| U /y/ et OU /u/ | [Voir la leçon](https://www.youtube.com/watch?v=hT_m6c4-ACw) | [Ouvrir l’exercice associé](https://getparle.app/blog/french-u-vs-ou-pronunciation/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010) |
+| É /e/ et È /ɛ/ | [Voir la leçon](https://www.youtube.com/watch?v=c8V2TFsZl0E) | [Ouvrir l’exercice associé](https://getparle.app/blog/french-e-vs-e-pronunciation/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010) |
+| O ouvert /ɔ/ et O fermé /o/ | [Voir la leçon](https://www.youtube.com/watch?v=lJgx4TA9-40) | [Ouvrir l’exercice associé](https://getparle.app/blog/french-open-closed-o-pronunciation/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010) |
+| I /i/ et U /y/ | [Voir la leçon](https://www.youtube.com/watch?v=jljy8a6ZfB4) | [Ouvrir l’exercice associé](https://getparle.app/french-vowel-trainer/?pair=i-u&utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#listening-title) |
+| AN/EN /ɑ̃/ et ON /ɔ̃/ | [Voir la leçon](https://www.youtube.com/watch?v=NwbQanRQ6Oc) | [Ouvrir l’exercice associé](https://getparle.app/blog/french-on-an-in-nasal-vowels/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010) |
+| Y et ILL : /i/ ou /j/ en contexte | [Voir la leçon](https://www.youtube.com/watch?v=LoZC-Z0dBJk) | [Ouvrir l’exercice associé](https://getparle.app/blog/french-ill-y-sound-pronunciation/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010) |
+
+Les extraits de voyelles donnent des sons isolés ; les mots écrits ne sont pas des enregistrements de mots complets. La leçon Y/ILL distingue ses modèles de son isolé, de mot complet et de phrase complète. Les références audio sont synthétiques et ne sont pas des enregistrements d’apprenants. Les variétés du français diffèrent.
+
+### First Contact : quatre activités d’expression orale
+
+| Objectif | Vidéo | Exercice web gratuit |
+| --- | --- | --- |
+| Dire bonjour et au revoir | [Voir la leçon](https://www.youtube.com/watch?v=hMjx9rLCWgM) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_1) |
+| Dire son prénom | [Voir la leçon](https://www.youtube.com/watch?v=4o9beyYXsFQ) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_2) |
+| Dire que l’on ne comprend pas ; demander de répéter | [Voir la leçon](https://www.youtube.com/watch?v=RliueiBjB94) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_3) |
+| Se présenter et prendre congé | [Voir la leçon](https://www.youtube.com/watch?v=5E0oLxD9IdM) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_4) |
+
+Les vidéos et les exercices web associés sont gratuits. Dans l’application facultative Parle pour iPhone et iPad, les 35 pages Sounds et les quatre premières missions Course sont gratuites ; le parcours complet de 120 missions nécessite Premium. Les vidéos n’enregistrent et ne notent pas votre voix.
+
+Ces leçons de première partie sont publiées par le développeur de Parle et ont été produites avec l’aide de l’IA. Les sons et les visuels des vidéos sont des œuvres séparées : la licence CC BY 4.0 des données et des fiches de ce dépôt ne s’étend pas aux vidéos. Leurs descriptions précisent les sources et les limites de réutilisation.
+
 ## Ressources publiques
 
 ### Tableau des 35 sons français
