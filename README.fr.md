@@ -14,6 +14,14 @@ Ce dépôt est une **publication officielle de données produite et maintenue pa
 
 [Ouvrir la collection pédagogique officielle](https://getparle.app/ressources-pedagogiques-prononciation-francaise/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#resource-collection) — téléchargement direct du PDF, fiche modifiable et références audio gratuites. Aucune installation de l'application n'est nécessaire.
 
+## Pratiquer é et è dans trois réponses
+
+[Voir French É vs È: Hear Café, Mère & Use Them in a Phrase (2 min 05)](https://www.youtube.com/watch?v=swtdoWJ9Tfc). Écoutez des modèles français complets pour commander un café, présenter votre mère et répondre à une salutation.
+
+Les consignes et les sens en anglais sont affichés à l’écran ; les consignes de fin sont dites en anglais. Les voix des modèles sont synthétiques. Ce travail sur les mots et les phrases n’est ni un test de paire minimale ni une note de prononciation.
+
+[Essayez les trois réponses avant d’ouvrir leurs modèles](https://getparle.app/blog/french-e-vs-e-pronunciation/#try-three-replies-without-reading). L’exercice web est gratuit et ne nécessite ni l’application ni un abonnement. La licence des données de ce dépôt ne s’étend pas à la vidéo.
+
 ## Vidéos gratuites : écouter, répéter, vérifier
 
 Choisissez une courte leçon sur [Parle French Lab (@ParleFrenchLab)](https://www.youtube.com/@ParleFrenchLab). Ces dix vidéos pour débutants sont gratuites : consignes en anglais, modèles audio en français, pauses pour s’entraîner et activité d’écoute ou jeu de rôle. Chaque leçon dure environ 90 secondes. Regardez, entraînez-vous pendant la pause, puis ouvrez l’exercice web associé ; aucune installation de l’application n’est nécessaire.

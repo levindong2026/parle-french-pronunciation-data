@@ -14,6 +14,14 @@ This repository is an **official first-party data publication maintained by Parl
 
 [Use the official web resource collection](https://getparle.app/french-pronunciation-teaching-resources/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#resource-collection) — direct PDF download, editable worksheet and free audio references. No app installation is needed.
 
+## Practise é and è in three replies
+
+[Watch French É vs È: Hear Café, Mère & Use Them in a Phrase (2:05)](https://www.youtube.com/watch?v=swtdoWJ9Tfc). Listen to complete French models for ordering a coffee, introducing your mother and replying to a greeting.
+
+English prompts and meanings appear onscreen; the closing guidance is spoken in English. The model voices are synthesized. This is word-and-phrase practice, not a minimal-pair test or a pronunciation score.
+
+[Try the three replies before opening their models](https://getparle.app/blog/french-e-vs-e-pronunciation/#try-three-replies-without-reading). The web practice is free and does not require the app or a subscription. The repository's data licence does not relicense the video.
+
 ## Free video lessons: listen, repeat, check
 
 Choose one short lesson from [Parle French Lab (@ParleFrenchLab)](https://www.youtube.com/@ParleFrenchLab). These ten beginner videos are free, with English instructions, French reference audio, learner pauses and a listening check or role-play. Each lesson lasts about 90 seconds. Watch, practise during the pause, then open the matching web exercise; no app installation is needed.
