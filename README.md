@@ -16,6 +16,15 @@ This repository is an **official first-party data publication maintained by Parl
 
 [Use the official web resource collection](https://getparle.app/french-pronunciation-teaching-resources/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#resource-collection) — direct PDF download, editable worksheet and free audio references. No app installation is needed.
 
+## Try a café order with English or Spanish explanations
+
+The server asks **« Sur place ou à emporter ? »**. Swap your coffee for apple juice, keep the cheese sandwich and take your order to the park. Say both replies in French before opening the explained model and acceptable alternatives.
+
+- [English explanations: try the free café exercise and read the sample](https://getparle.app/books/french-a0-a2/#cafe-order-practice)
+- [Spanish explanations: prueba el ejercicio gratuito de cafetería y lee la muestra](https://getparle.app/es/libros/frances-a0-a2/#cafe-order-practice)
+
+The four books work together: learn the situation in the main course, rehearse replies in the speaking book, find clues in graded reading, then recall and reuse vocabulary. Choose the explanation language you read most comfortably. The task and 24-page main-course sample are free; the complete Parle Books collection is a separate paid product. The books include neither recordings nor an App subscription, and this repository's CC BY licence does not apply to them.
+
 ## Practise é and è in three replies
 
 [Watch French É vs È: Hear Café, Mère & Use Them in a Phrase (2:05)](https://www.youtube.com/watch?v=swtdoWJ9Tfc). Listen to complete French models for ordering a coffee, introducing your mother and replying to a greeting.

@@ -14,7 +14,16 @@ Ce dépôt est une **publication officielle de données produite et maintenue pa
 
 [Accents du français : fiche avec consignes en anglais et en espagnol](./worksheets/french-accent-meaning-practice-en-es.md) — identifier quatre signes, choisir a/à et ou/où selon le sens, puis écrire deux nouvelles questions de café avant d’ouvrir le corrigé expliqué. Markdown gratuit et modifiable, à utiliser seul ou à deux ; sans audio ni note de prononciation. Cette fiche est distincte du ZIP pédagogique versionné.
 
-[Ouvrir la collection pédagogique officielle](https://getparle.app/ressources-pedagogiques-prononciation-francaise/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#resource-collection) — téléchargement direct du PDF, fiche modifiable et références audio gratuites. Aucune installation de l'application n'est nécessaire.
+[Ouvrir la collection pédagogique officielle](https://getparle.app/ressources-pedagogiques-prononciation-francaise/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#collection) — téléchargement direct du PDF, fiche modifiable et références audio gratuites. Aucune installation de l'application n'est nécessaire.
+
+## Essayer une commande au café avec des explications en anglais ou en espagnol
+
+Le serveur demande **« Sur place ou à emporter ? »**. Remplacez le café par un jus de pomme, gardez le sandwich au fromage dans votre commande et emportez le tout au parc. Donnez vos deux réponses en français avant d'ouvrir le modèle expliqué et les autres réponses possibles.
+
+- [Explications en anglais : faire l'exercice gratuit de commande au café et lire l'extrait](https://getparle.app/books/french-a0-a2/#cafe-order-practice)
+- [Explications en espagnol : faire l'exercice gratuit de commande au café et lire l'extrait](https://getparle.app/es/libros/frances-a0-a2/#cafe-order-practice)
+
+Les quatre livres se complètent : le cours principal présente la situation, le cahier d'expression orale fait travailler les réponses, les lectures graduées demandent de repérer des indices, puis le vocabulaire se travaille par rappel et réemploi. Choisissez la langue d'explication que vous lisez le plus facilement. L'activité et l'extrait de 24 pages du cours principal sont gratuits ; la collection complète Parle Books est un produit payant distinct. Les livres ne comprennent ni enregistrements ni abonnement à l'application, et la licence CC BY de ce dépôt ne s'applique pas à eux.
 
 ## Pratiquer é et è dans trois réponses
 
