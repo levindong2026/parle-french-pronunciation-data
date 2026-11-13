@@ -12,6 +12,8 @@ Ce dépôt est une **publication officielle de données produite et maintenue pa
 
 [É /e/ et è /ɛ/ : fiche bilingue de cinq minutes](./french-e-open-closed-worksheet.md) — six mots, une phrase à lire, un corrigé et des références audio gratuites. L'activité web ne nécessite ni installation de l'application ni abonnement ; elle n'enregistre et ne note pas votre voix. Cette fiche a été ajoutée le 9 octobre 2026. Les anciens jeux de données et le ZIP pédagogique restent inchangés.
 
+[Accents du français : fiche avec consignes en anglais et en espagnol](./worksheets/french-accent-meaning-practice-en-es.md) — identifier quatre signes, choisir a/à et ou/où selon le sens, puis écrire deux nouvelles questions de café avant d’ouvrir le corrigé expliqué. Markdown gratuit et modifiable, à utiliser seul ou à deux ; sans audio ni note de prononciation. Cette fiche est distincte du ZIP pédagogique versionné.
+
 [Ouvrir la collection pédagogique officielle](https://getparle.app/ressources-pedagogiques-prononciation-francaise/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#resource-collection) — téléchargement direct du PDF, fiche modifiable et références audio gratuites. Aucune installation de l'application n'est nécessaire.
 
 ## Pratiquer é et è dans trois réponses
