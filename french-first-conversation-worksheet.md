@@ -16,12 +16,12 @@ Listen to a model, hide it, then answer aloud. With a partner, swap roles. Use a
 
 Écoutez un modèle, cachez-le, puis répondez à voix haute. En binôme, inversez les rôles. Utilisez un prénom réel ou inventé. Cochez chaque tâche après la tentative ; la case cochée atteste la pratique, pas une évaluation.
 
-| Task / Tâche | Your turn / À vous | Video / Vidéo |
-| --- | --- | --- |
-| 1. Greet and take leave / Saluer et prendre congé | You meet someone. Say hello, then say goodbye. / Vous rencontrez quelqu’un. Saluez cette personne, puis prenez congé. | [Bonjour et Au revoir](https://www.youtube.com/watch?v=hMjx9rLCWgM) |
-| 2. Say your first name / Dire votre prénom | Tell your partner your name, then say “Nice to meet you.” / Dites votre prénom, puis dites que vous êtes ravi de faire sa connaissance. | [Je m’appelle](https://www.youtube.com/watch?v=4o9beyYXsFQ) |
-| 3. Ask someone to repeat / Demander de répéter | You did not understand. Say so and ask for repetition. / Vous n’avez pas compris. Dites-le et demandez de répéter. | [Je ne comprends pas](https://www.youtube.com/watch?v=RliueiBjB94) |
-| 4. Put it together without notes / Réutiliser sans notes | Greet, introduce yourself and say goodbye. Your partner replies. / Saluez, présentez-vous et prenez congé. Votre partenaire répond. | [Se présenter](https://www.youtube.com/watch?v=5E0oLxD9IdM) |
+| Task / Tâche | Your turn / À vous | Video / Vidéo | Free web practice / Exercice web gratuit |
+| --- | --- | --- | --- |
+| 1. Greet and take leave / Saluer et prendre congé | You meet someone. Say hello, then say goodbye. / Vous rencontrez quelqu’un. Saluez cette personne, puis prenez congé. | [Bonjour et Au revoir](https://www.youtube.com/watch?v=hMjx9rLCWgM) | [Say hello / Dire bonjour](https://getparle.app/french-speaking-course/first-contact/#mission_a0_first_contact_1-roleplay) |
+| 2. Say your first name / Dire votre prénom | Tell your partner your name, then say “Nice to meet you.” / Dites votre prénom, puis dites que vous êtes ravi de faire sa connaissance. | [Je m’appelle](https://www.youtube.com/watch?v=4o9beyYXsFQ) | [Say your first name / Dire son prénom](https://getparle.app/french-speaking-course/first-contact/#mission_a0_first_contact_2-roleplay) |
+| 3. Ask someone to repeat / Demander de répéter | You did not understand. Say so and ask for repetition. / Vous n’avez pas compris. Dites-le et demandez de répéter. | [Je ne comprends pas](https://www.youtube.com/watch?v=RliueiBjB94) | [Ask someone to repeat / Demander de répéter](https://getparle.app/french-speaking-course/first-contact/#mission_a0_first_contact_3-roleplay) |
+| 4. Put it together without notes / Réutiliser sans notes | Greet, introduce yourself and say goodbye. Your partner replies. / Saluez, présentez-vous et prenez congé. Votre partenaire répond. | [Se présenter](https://www.youtube.com/watch?v=5E0oLxD9IdM) | [Introduce yourself and say goodbye / Se présenter et prendre congé](https://getparle.app/french-speaking-course/first-contact/#mission_a0_first_contact_4-roleplay) |
 
 ## Possible replies / Réponses possibles
 
