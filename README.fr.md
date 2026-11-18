@@ -37,6 +37,8 @@ Les consignes et les sens en anglais sont affichés à l’écran ; les consigne
 
 Choisissez une courte leçon sur [Parle French Lab (@ParleFrenchLab)](https://www.youtube.com/@ParleFrenchLab). Ces dix vidéos pour débutants sont gratuites : consignes en anglais, modèles audio en français, pauses pour s’entraîner et activité d’écoute ou jeu de rôle. Chaque leçon dure environ 90 secondes. Regardez, entraînez-vous pendant la pause, puis ouvrez l’exercice web associé ; aucune installation de l’application n’est nécessaire.
 
+Le [catalogue des leçons guidées de Parle](https://getparle.app/videos/#guided-lessons) propose d’autres conversations et des exercices sur les sons. Écoutez les modèles en français, appuyez-vous sur les traductions affichées en anglais, puis essayez l’activité gratuite associée sur le site.
+
 ### Prononciation et graphies
 
 | Objectif | Vidéo | Exercice web gratuit |

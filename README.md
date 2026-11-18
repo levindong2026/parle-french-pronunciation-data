@@ -37,6 +37,8 @@ English prompts and meanings appear onscreen; the closing guidance is spoken in 
 
 Choose one short lesson from [Parle French Lab (@ParleFrenchLab)](https://www.youtube.com/@ParleFrenchLab). These ten beginner videos are free, with English instructions, French reference audio, learner pauses and a listening check or role-play. Each lesson lasts about 90 seconds. Watch, practise during the pause, then open the matching web exercise; no app installation is needed.
 
+Find more conversations and sound practice in the [Parle guided lesson catalog](https://getparle.app/videos/#guided-lessons). Listen to the French models, follow the English meanings on screen, and try the matching free web exercise.
+
 ### Pronunciation and spelling
 
 | Learning goal | Watch | Free web practice |
