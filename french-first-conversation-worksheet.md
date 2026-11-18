@@ -38,6 +38,15 @@ Keep these separate until the first attempt. Other natural replies can work.
 
 For a teacher or partner: listen for whether the intended message is understandable; invite another attempt after listening to the model. This exercise does not certify a level or assess an accent.
 
+## Try one more exchange / Un autre échange en binôme
+
+Greet the other person, use the fictional first name given for your role, and ask to join the games table. Swap roles, then reveal one possible dialogue in the free speaking workbook sample.
+
+Saluez l’autre personne, donnez le prénom fictif indiqué pour votre rôle et demandez si vous pouvez vous joindre à la table de jeux. Inversez les rôles, puis ouvrez le dialogue proposé dans l’extrait gratuit du cahier d’expression orale.
+
+- [Try the exercise with English explanations](https://getparle.app/books/french-a0-a2/#companion-preview-speaking)
+- [Prueba el ejercicio con explicaciones en español](https://getparle.app/es/libros/frances-a0-a2/#companion-preview-speaking)
+
 ## Source, publication and reuse
 
 Created by the Parle team as an official first-party learning resource. AI-assisted script and layout; existing synthesized reference audio on the website and videos. Adapted from [Parle’s First Contact unit](https://getparle.app/french-speaking-course/first-contact/), with separate prompts and possible answers added for printable partner practice. Published 10 October 2026.
