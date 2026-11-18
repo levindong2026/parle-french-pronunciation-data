@@ -25,6 +25,24 @@ Le serveur demande **« Sur place ou à emporter ? »**. Remplacez le café par 
 
 Les quatre livres se complètent : le cours principal présente la situation, le cahier d'expression orale fait travailler les réponses, les lectures graduées demandent de repérer des indices, puis le vocabulaire se travaille par rappel et réemploi. Choisissez la langue d'explication que vous lisez le plus facilement. L'activité et l'extrait de 24 pages du cours principal sont gratuits ; la collection complète Parle Books est un produit payant distinct. Les livres ne comprennent ni enregistrements ni abonnement à l'application, et la licence CC BY de ce dépôt ne s'applique pas à eux.
 
+## Lire une courte annonce en français
+
+**L’atelier photo commence à 16 h dans la salle 3. Accueil dès 15 h 40.**
+
+Repérez la salle, l’heure de début de l’atelier et la première heure à laquelle vous pouvez arriver. Quels mots dans l’annonce justifient vos réponses ?
+
+<details>
+<summary>Vérifier les réponses et les indices</summary>
+
+L’atelier se déroule dans la salle 3 et commence à 16 h. Vous pouvez arriver dès 15 h 40. Repérez **dans la salle 3**, **commence à 16 h** et **accueil dès 15 h 40**.
+
+</details>
+
+Lisez ensuite une annonce de club plus longue dans **La bonne salle**, un extrait gratuit du recueil de lectures graduées de Parle. Ouvrez l’activité de lecture et vérifiez les six réponses une par une après avoir trouvé vos indices dans le texte.
+
+- [Lire l’extrait gratuit avec des explications en anglais](https://getparle.app/books/french-a0-a2/#companion-preview-reading)
+- [Lire l’extrait gratuit avec des explications en espagnol](https://getparle.app/es/libros/frances-a0-a2/#companion-preview-reading)
+
 ## Demander son chemin en français : lieu ou consigne ?
 
 Lisez les deux phrases à voix haute. Laquelle situe la gare ? Laquelle vous demande de tourner ?

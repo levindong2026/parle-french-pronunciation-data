@@ -42,8 +42,12 @@ Created by the Parle team as an official first-party learning resource. AI-assis
 
 Optional App: Parle: Learn & Speak French for iPhone and iPad, official website getparle.app, Apple App Store ID **6761505050**. All **35 Sounds pages** and only the first **4 Course missions** are free; the full **120-mission** App course requires Premium. The web lessons and videos remain free.
 
+[Follow the free Hello! walkthrough](https://getparle.app/app/#first-mission-title) to record and replay the greeting you have just practised.
+
 ## Version française
 
 Fiche gratuite pour débutants, à utiliser seul ou en binôme. Imprimez la page 1 et gardez la page 2, le corrigé, à part. Écoutez les modèles sur le site ou regardez les vidéos, puis répondez avant de consulter les exemples. Aucune application ni aucun abonnement ne sont nécessaires pour cette fiche, les activités web ou les vidéos.
+
+[Suivez le guide de la mission gratuite Hello! (en anglais)](https://getparle.app/app/#first-mission-title) pour enregistrer et réécouter la salutation que vous venez de pratiquer.
 
 Publication officielle de l’équipe Parle ; script et mise en page assistés par IA. Les références audio sont synthétisées. La fiche, adaptée de l’unité Premier contact, est publiée sous CC BY 4.0. Cette licence ne couvre pas les vidéos, l’audio ou le logiciel. Les cases servent à noter la pratique, pas à attribuer une note de prononciation.

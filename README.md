@@ -25,6 +25,24 @@ The server asks **« Sur place ou à emporter ? »**. Swap your coffee for apple
 
 The four books work together: learn the situation in the main course, rehearse replies in the speaking book, find clues in graded reading, then recall and reuse vocabulary. Choose the explanation language you read most comfortably. The task and 24-page main-course sample are free; the complete Parle Books collection is a separate paid product. The books include neither recordings nor an App subscription, and this repository's CC BY licence does not apply to them.
 
+## Read a short notice in French
+
+**L’atelier photo commence à 16 h dans la salle 3. Accueil dès 15 h 40.**
+
+Find the room, the time the workshop starts and the earliest arrival time. Which words in the notice support your answers?
+
+<details>
+<summary>Check the answers and clues</summary>
+
+The workshop is in room 3 and begins at 16:00. You can arrive from 15:40. Look for **dans la salle 3**, **commence à 16 h** and **accueil dès 15 h 40**.
+
+</details>
+
+Try a longer club notice in **La bonne salle**, a free excerpt from Parle’s graded reader. Open the reading activity and reveal each of its six answers after you find evidence in the text.
+
+- [Read the free excerpt with English explanations](https://getparle.app/books/french-a0-a2/#companion-preview-reading)
+- [Leer el fragmento gratuito con explicaciones en español](https://getparle.app/es/libros/frances-a0-a2/#companion-preview-reading)
+
 ## Ask for directions in French: location or instruction?
 
 Read both lines aloud. Which tells you where the station is? Which tells you to turn?
