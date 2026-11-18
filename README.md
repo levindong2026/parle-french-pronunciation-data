@@ -96,10 +96,10 @@ The vowel clips model isolated sounds; written word examples are not whole-word 
 
 | Learning goal | Watch | Free web practice |
 | --- | --- | --- |
-| Say hello and goodbye | [Watch the lesson](https://www.youtube.com/watch?v=hMjx9rLCWgM) | [Open matching practice](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_1) |
-| Say your name | [Watch the lesson](https://www.youtube.com/watch?v=4o9beyYXsFQ) | [Open matching practice](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_2) |
-| Say you do not understand; ask for repetition | [Watch the lesson](https://www.youtube.com/watch?v=RliueiBjB94) | [Open matching practice](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_3) |
-| Introduce yourself and take leave | [Watch the lesson](https://www.youtube.com/watch?v=5E0oLxD9IdM) | [Open matching practice](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_4) |
+| Say hello and goodbye | [Watch the lesson](https://www.youtube.com/watch?v=hMjx9rLCWgM) | [Open matching practice](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_1-dialogue) |
+| Say your name | [Watch the lesson](https://www.youtube.com/watch?v=4o9beyYXsFQ) | [Open matching practice](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_2-dialogue) |
+| Say you do not understand; ask for repetition | [Watch the lesson](https://www.youtube.com/watch?v=RliueiBjB94) | [Open matching practice](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_3-roleplay) |
+| Introduce yourself and take leave | [Watch the lesson](https://www.youtube.com/watch?v=5E0oLxD9IdM) | [Open matching practice](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_4-dialogue) |
 
 The videos and matching website exercises are free. In the optional Parle iPhone/iPad app, all 35 Sounds pages and the first four Course missions are free; the full 120-mission App course requires Premium. The videos do not record or score your voice.
 
@@ -112,7 +112,8 @@ These are first-party, AI-assisted lessons published by the Parle developer. Vid
 - Canonical CSV: https://getparle.app/french-sound-chart.csv
 - Versioned repository copy: [french-sound-chart.csv](./french-sound-chart.csv)
 - Human-readable reference: https://getparle.app/french-sound-chart/
-- Printable teacher reference (3-page A4 PDF, CC BY 4.0): https://getparle.app/french-sound-chart-teacher-reference.pdf
+- [Printable teacher reference in English (3-page A4 PDF, CC BY 4.0)](https://getparle.app/french-sound-chart-teacher-reference.pdf)
+- [Printable French-language table with direct links to the 35 sounds](https://getparle.app/resources/tableau-35-sons-francais/)
 - Interactive vowel trainer with 14 local audio references: https://getparle.app/french-vowel-trainer/
 
 ### Complete open teaching pack
@@ -123,6 +124,8 @@ These are first-party, AI-assisted lessons published by the Parle developer. Vid
 - [Download the bilingual answer key](https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-u-y-answer-key.pdf)
 - English teacher-resource collection: https://getparle.app/french-pronunciation-teaching-resources/
 - French teacher-resource collection: https://getparle.app/ressources-pedagogiques-prononciation-francaise/
+
+The GitHub `v2026.08.27` ZIP above is the fixed release. The [current website ZIP](https://getparle.app/parle-french-sound-chart-open-teaching-pack.zip) uses the same filename and replaces six audio references. Its Parle classroom materials and 29 synthesized clips use CC BY 4.0. The six recorded IPA samples retain their individual CC BY-SA 3.0 or 4.0 licences. Their [source credits](https://getparle.app/french-sound-chart/#audio-sources) and the ZIP's `LICENSE.txt` identify the licence for each recording.
 
 ### A0–A2 speaking course map — 6 stages, 30 units, 120 missions
 
@@ -165,4 +168,4 @@ These records distribute or describe first-party Parle data. They are not indepe
 
 ## Reuse
 
-The two public datasets, teaching-pack files, and printable teacher reference may be quoted or adapted under CC BY 4.0 with attribution to **Parle** and a link to the relevant canonical resource. Parle trademarks, app artwork, screenshots, lesson dialogues outside the open pack, and other materials are not relicensed by this data-reuse statement.
+The two public datasets, files in the GitHub `v2026.08.27` ZIP, and printable teacher reference may be quoted or adapted under CC BY 4.0 with attribution to **Parle** and a link to the relevant canonical resource. Parle trademarks, app artwork, screenshots, lesson dialogues outside the open pack, and other materials are not relicensed by this data-reuse statement.

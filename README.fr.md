@@ -96,10 +96,10 @@ Les extraits de voyelles donnent des sons isolés ; les mots écrits ne sont pas
 
 | Objectif | Vidéo | Exercice web gratuit |
 | --- | --- | --- |
-| Dire bonjour et au revoir | [Voir la leçon](https://www.youtube.com/watch?v=hMjx9rLCWgM) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_1) |
-| Dire son prénom | [Voir la leçon](https://www.youtube.com/watch?v=4o9beyYXsFQ) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_2) |
-| Dire que l’on ne comprend pas ; demander de répéter | [Voir la leçon](https://www.youtube.com/watch?v=RliueiBjB94) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_3) |
-| Se présenter et prendre congé | [Voir la leçon](https://www.youtube.com/watch?v=5E0oLxD9IdM) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_4) |
+| Dire bonjour et au revoir | [Voir la leçon](https://www.youtube.com/watch?v=hMjx9rLCWgM) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_1-dialogue) |
+| Dire son prénom | [Voir la leçon](https://www.youtube.com/watch?v=4o9beyYXsFQ) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_2-dialogue) |
+| Dire que l’on ne comprend pas ; demander de répéter | [Voir la leçon](https://www.youtube.com/watch?v=RliueiBjB94) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_3-roleplay) |
+| Se présenter et prendre congé | [Voir la leçon](https://www.youtube.com/watch?v=5E0oLxD9IdM) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_4-dialogue) |
 
 Les vidéos et les exercices web associés sont gratuits. Dans l’application facultative Parle pour iPhone et iPad, les 35 pages Sounds et les quatre premières missions Course sont gratuites ; le parcours complet de 120 missions nécessite Premium. Les vidéos n’enregistrent et ne notent pas votre voix.
 
@@ -111,8 +111,8 @@ Ces leçons de première partie sont publiées par le développeur de Parle et o
 
 - CSV canonique : https://getparle.app/french-sound-chart.csv
 - Copie versionnée : [french-sound-chart.csv](./french-sound-chart.csv)
-- Tableau pédagogique en français : https://getparle.app/resources/tableau-35-sons-francais/
-- Référence imprimable pour enseignants (PDF A4 de 3 pages, CC BY 4.0) : https://getparle.app/french-sound-chart-teacher-reference.pdf
+- [Tableau imprimable en français avec un accès direct aux 35 sons](https://getparle.app/resources/tableau-35-sons-francais/)
+- [Référence imprimable pour enseignants en anglais (PDF A4 de 3 pages, CC BY 4.0)](https://getparle.app/french-sound-chart-teacher-reference.pdf)
 - Entraîneur interactif des voyelles avec 14 références audio locales : https://getparle.app/french-vowel-trainer/
 
 ### Dossier pédagogique ouvert complet
@@ -123,6 +123,8 @@ Ces leçons de première partie sont publiées par le développeur de Parle et o
 - [Télécharger le corrigé bilingue](https://github.com/levindong2026/parle-french-pronunciation-data/releases/download/v2026.08.27/parle-french-u-y-answer-key.pdf)
 - Collection pédagogique en anglais : https://getparle.app/french-pronunciation-teaching-resources/
 - Collection pédagogique en français : https://getparle.app/ressources-pedagogiques-prononciation-francaise/
+
+Le ZIP GitHub `v2026.08.27` ci-dessus correspond à la version archivée. Le [ZIP actuel du site](https://getparle.app/parle-french-sound-chart-open-teaching-pack.zip) porte le même nom et remplace six références audio. Les supports pédagogiques de Parle et 29 extraits de synthèse sont sous licence CC BY 4.0. Les six enregistrements de référence de l’API conservent leurs licences respectives CC BY-SA 3.0 ou 4.0. Les [crédits des enregistrements](https://getparle.app/french-sound-chart/#audio-sources) et le fichier `LICENSE.txt` du ZIP précisent la licence de chacun.
 
 Le tableau présente, pour chaque entrée, le symbole API, des graphies fréquentes, des exemples et un repère articulatoire pratique. Les inventaires phonologiques du français varient selon les analyses et les variétés : cette sélection de 35 sons est un inventaire pédagogique délimité, et non l'unique analyse possible de la phonologie française.
 
@@ -165,4 +167,4 @@ Ces références diffusent ou décrivent des données de première partie publi�
 
 ## Réutilisation
 
-Les deux jeux de données publics, les fichiers du dossier pédagogique et la référence imprimable pour enseignants peuvent être cités ou adaptés sous licence [CC BY 4.0](./LICENSE), avec attribution à **Parle** et lien vers la ressource canonique correspondante. Les marques Parle, visuels de l'application, captures d'écran, dialogues pédagogiques hors dossier ouvert et autres contenus ne sont pas couverts par cette autorisation de réutilisation.
+Les deux jeux de données publics, les fichiers du ZIP GitHub `v2026.08.27` et la référence imprimable pour enseignants peuvent être cités ou adaptés sous licence [CC BY 4.0](./LICENSE), avec attribution à **Parle** et lien vers la ressource canonique correspondante. Les marques Parle, visuels de l'application, captures d'écran, dialogues pédagogiques hors dossier ouvert et autres contenus ne sont pas couverts par cette autorisation de réutilisation.
