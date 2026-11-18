@@ -25,6 +25,28 @@ The server asks **« Sur place ou à emporter ? »**. Swap your coffee for apple
 
 The four books work together: learn the situation in the main course, rehearse replies in the speaking book, find clues in graded reading, then recall and reuse vocabulary. Choose the explanation language you read most comfortably. The task and 24-page main-course sample are free; the complete Parle Books collection is a separate paid product. The books include neither recordings nor an App subscription, and this repository's CC BY licence does not apply to them.
 
+## Ask for directions in French: location or instruction?
+
+Read both lines aloud. Which tells you where the station is? Which tells you to turn?
+
+1. **La gare est à droite.**
+2. **Tournez à droite.**
+
+Then try a different situation. Ask a passer-by where the museum is. Give a reply that describes its location.
+
+<details>
+<summary>Check the answers and one possible museum exchange</summary>
+
+**La gare est à droite.** means “The station is on the right.” **Tournez à droite.** means “Turn right.”
+
+In the new situation, you could ask **« Excusez-moi, où est le musée ? »** and reply **« Le musée est à gauche. »** The museum is on the left.
+
+</details>
+
+- [Practise with a street map and English explanations](https://getparle.app/french-speaking-course/town-directions/#town-map-practice)
+- [Listen to the station exchange and check the answers in Spanish](https://getparle.app/es/libros/practica-direcciones-frances/#escena-station)
+- [Choose the English or Spanish free sample for the separate Montlac travel task](https://getparle.app/french-speaking-course/town-directions/#book-sample-title)
+
 ## Practise é and è in three replies
 
 [Watch French É vs È: Hear Café, Mère & Use Them in a Phrase (2:05)](https://www.youtube.com/watch?v=swtdoWJ9Tfc). Listen to complete French models for ordering a coffee, introducing your mother and replying to a greeting.

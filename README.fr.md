@@ -25,6 +25,28 @@ Le serveur demande **« Sur place ou à emporter ? »**. Remplacez le café par 
 
 Les quatre livres se complètent : le cours principal présente la situation, le cahier d'expression orale fait travailler les réponses, les lectures graduées demandent de repérer des indices, puis le vocabulaire se travaille par rappel et réemploi. Choisissez la langue d'explication que vous lisez le plus facilement. L'activité et l'extrait de 24 pages du cours principal sont gratuits ; la collection complète Parle Books est un produit payant distinct. Les livres ne comprennent ni enregistrements ni abonnement à l'application, et la licence CC BY de ce dépôt ne s'applique pas à eux.
 
+## Demander son chemin en français : lieu ou consigne ?
+
+Lisez les deux phrases à voix haute. Laquelle situe la gare ? Laquelle vous demande de tourner ?
+
+1. **La gare est à droite.**
+2. **Tournez à droite.**
+
+Changez de situation. Demandez à un passant où se trouve le musée. Répondez en indiquant où il se trouve.
+
+<details>
+<summary>Vérifier les réponses et voir un exemple pour le musée</summary>
+
+**La gare est à droite.** indique où se trouve la gare. **Tournez à droite.** donne une consigne.
+
+Dans la nouvelle situation, vous pouvez demander **« Excusez-moi, où est le musée ? »** et répondre **« Le musée est à gauche. »**
+
+</details>
+
+- [S’entraîner avec un plan et des explications en anglais](https://getparle.app/french-speaking-course/town-directions/#town-map-practice)
+- [Écouter le dialogue de la gare et vérifier les réponses en espagnol](https://getparle.app/es/libros/practica-direcciones-frances/#escena-station)
+- [Choisir l’extrait gratuit en anglais ou en espagnol pour l’exercice distinct du voyage à Montlac](https://getparle.app/french-speaking-course/town-directions/#book-sample-title)
+
 ## Pratiquer é et è dans trois réponses
 
 [Voir French É vs È: Hear Café, Mère & Use Them in a Phrase (2 min 05)](https://www.youtube.com/watch?v=swtdoWJ9Tfc). Écoutez des modèles français complets pour commander un café, présenter votre mère et répondre à une salutation.
