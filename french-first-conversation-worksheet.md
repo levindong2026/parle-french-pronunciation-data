@@ -54,7 +54,7 @@ Created by the Parle team as an official first-party learning resource. AI-assis
 
 **Worksheet license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).** Credit Parle French Lab, link this source and identify your changes; you may share or adapt this worksheet with attribution. This worksheet license does not license the audio, video recordings or software.
 
-Optional App: Parle: Learn & Speak French for iPhone and iPad, official website getparle.app, Apple App Store ID **6761505050**. All **35 Sounds pages** and only the first **4 Course missions** are free; the full **120-mission** App course requires Premium. The web lessons and videos remain free.
+You can also practise with Parle on iPhone or iPad. The [official Parle app guide](https://getparle.app/app/) lists current free starter practice, Premium access and device compatibility.
 
 [Follow the free Hello! walkthrough](https://getparle.app/app/#first-mission-title) to record and replay the greeting you have just practised.
 
