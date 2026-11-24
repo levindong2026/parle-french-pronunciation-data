@@ -18,6 +18,8 @@ Ce dépôt est une **publication officielle de données produite et maintenue pa
 
 [Voyelles nasales : reconnaître le mot et le réemployer](./worksheets/french-nasal-vowels-listening-en-fr.md) — une activité A1 de 10 à 12 minutes avec trois références sonores, six mots à identifier, trois répliques en contexte et un corrigé. Consignes modifiables en français et en anglais, CC BY 4.0.
 
+[Les liaisons au guichet](./worksheets/french-liaison-at-the-ticket-desk-en-fr.pdf) — six groupes à lire, puis une question au guichet et un corrigé séparé. [Fiche modifiable en français et en anglais](./worksheets/french-liaison-at-the-ticket-desk-en-fr.md). CC BY 4.0.
+
 [Ouvrir la collection pédagogique officielle](https://getparle.app/ressources-pedagogiques-prononciation-francaise/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#collection) — téléchargement direct du PDF, fiche modifiable et références audio gratuites. Aucune installation de l'application n'est nécessaire.
 
 ## Essayer une commande au café avec des explications en anglais ou en espagnol
