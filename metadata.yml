@@ -73,3 +73,99 @@
       name: "Carte B : l'heure d'arrivée (PDF)"
     - id: https://getparle.app/montreal-transit-a1-enseignant-fr.docx
       name: Version modifiable pour l'enseignant (DOCX)
+
+- "@context": https://schema.org/
+  type: LearningResource
+  creativeWorkStatus: Published
+  id: https://getparle.app/french-pronunciation-teaching-resources/#first-conversation-worksheet
+  name: "Your first French conversation: printable partner worksheet"
+  description: >-
+    Four short role-plays for a beginner French tutorial: greet someone, say
+    your name, ask for repetition and take leave. The second page gives
+    possible answers. The two printable editions pair French prompts with
+    English or Spanish instructions. CC BY 4.0 covers the authored worksheets
+    and answers. Linked media have their own terms. The app details on the
+    English edition refer to an earlier version.
+  inLanguage: [en, fr, es]
+  license: https://creativecommons.org/licenses/by/4.0/
+  creator:
+    - type: Organization
+      name: Tingnova Inc.
+  about:
+    - https://w3id.org/kim/hochschulfaechersystematik/n059
+  educationalLevel:
+    - https://w3id.org/kim/educationalLevel/level_A
+  learningResourceType:
+    - https://w3id.org/kim/hcrt/worksheet
+  keywords:
+    - beginner French
+    - pair work
+    - greetings
+    - introductions
+  hasPart:
+    - id: https://getparle.app/french-first-conversation-worksheet.pdf
+      name: Partner worksheet and possible answers (English–French PDF)
+    - id: https://getparle.app/french-first-conversation-worksheet-es.pdf
+      name: Ficha de conversación y respuestas posibles (PDF español–francés)
+
+- "@context": https://schema.org/
+  type: LearningResource
+  creativeWorkStatus: Published
+  id: https://getparle.app/blog/french-e-vs-e-pronunciation/#your-five-minute-french-e-routine
+  name: "French é and è: a five-minute worksheet"
+  description: >-
+    A short worksheet for an introductory French pronunciation tutorial. Sort
+    six written examples by the target vowel /e/ or /ɛ/, say a sample phrase
+    and compare your choices with the second-page key. Instructions are in
+    English and French. CC BY 4.0 covers this authored worksheet. Linked
+    reference media are separate, and the printed app details are historical.
+  inLanguage: [en, fr]
+  license: https://creativecommons.org/licenses/by/4.0/
+  creator:
+    - type: Organization
+      name: Tingnova Inc.
+  about:
+    - https://w3id.org/kim/hochschulfaechersystematik/n059
+  educationalLevel:
+    - https://w3id.org/kim/educationalLevel/level_A
+  learningResourceType:
+    - https://w3id.org/kim/hcrt/worksheet
+  keywords:
+    - French pronunciation
+    - vowel contrast
+    - é and è
+    - spelling
+  hasPart:
+    - id: https://getparle.app/french-e-open-closed-worksheet.pdf
+      name: Worksheet and answer key (English–French PDF)
+
+- "@context": https://schema.org/
+  type: LearningResource
+  creativeWorkStatus: Published
+  id: https://getparle.app/french-pronunciation-lessons/pratique-de-la-liaison-synthese-et-flux/#ticket-desk-worksheet
+  name: "French liaison at the ticket desk: A1 worksheet"
+  description: >-
+    A printable warm-up for an introductory French class. Decide how six
+    marked word groups link in speech, check the second-page key, then say a
+    complete question at a station ticket desk. CC BY 4.0 covers this
+    English–French worksheet and answer key. The surrounding lesson and
+    linked materials have their own reuse terms.
+  inLanguage: [en, fr]
+  license: https://creativecommons.org/licenses/by/4.0/
+  creator:
+    - type: Organization
+      name: Tingnova Inc.
+  about:
+    - https://w3id.org/kim/hochschulfaechersystematik/n059
+  educationalLevel:
+    - https://w3id.org/kim/educationalLevel/level_A
+  learningResourceType:
+    - https://w3id.org/kim/hcrt/worksheet
+  keywords:
+    - French pronunciation
+    - liaison
+    - beginner French
+    - buying a train ticket
+  hasPart:
+    - id: https://getparle.app/french-liaison-at-the-ticket-desk-en-fr.pdf
+      name: Worksheet and answer key (English–French PDF)
