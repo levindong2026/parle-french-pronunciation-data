@@ -20,6 +20,8 @@ This repository is an **official first-party data publication maintained by Parl
 
 [French liaison at the ticket desk](./worksheets/french-liaison-at-the-ticket-desk-en-fr.pdf) — six marked boundaries and a follow-up ticket-desk question, with a separate answer page. [Editable English/French worksheet](./worksheets/french-liaison-at-the-ticket-desk-en-fr.md). CC BY 4.0.
 
+[Montréal transit: design and verify an A1 pair activity](./worksheets/montreal-transit-a1-design-notes.md) — a 12-minute reading-and-speaking task with cut-apart role cards, a separate teacher key and a reproducible check for the two A4 files.
+
 [Use the official web resource collection](https://getparle.app/french-pronunciation-teaching-resources/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#resource-collection) — direct PDF download, editable worksheet and free audio references. No app installation is needed.
 
 ## Try a café order with English or Spanish explanations

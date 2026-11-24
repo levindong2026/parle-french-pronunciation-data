@@ -20,6 +20,8 @@ Ce dépôt est une **publication officielle de données produite et maintenue pa
 
 [Les liaisons au guichet](./worksheets/french-liaison-at-the-ticket-desk-en-fr.pdf) — six groupes à lire, puis une question au guichet et un corrigé séparé. [Fiche modifiable en français et en anglais](./worksheets/french-liaison-at-the-ticket-desk-en-fr.md). CC BY 4.0.
 
+[Les transports à Montréal : concevoir et vérifier une activité A1 en binôme](./worksheets/montreal-transit-a1-design-notes.md) — lecture et expression orale en 12 minutes, cartes à découper et corrigé séparé. Notes techniques et consignes en anglais.
+
 [Ouvrir la collection pédagogique officielle](https://getparle.app/ressources-pedagogiques-prononciation-francaise/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#collection) — téléchargement direct du PDF, fiche modifiable et références audio gratuites. Aucune installation de l'application n'est nécessaire.
 
 ## Essayer une commande au café avec des explications en anglais ou en espagnol
