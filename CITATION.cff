@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these materials, cite the all-versions Zenodo DOI and identify the GitHub release used."
+message: "Cite the GitHub release for the teaching pack or printable materials. For the archived CSV datasets, cite the version DOI in the reference below."
 title: "Parle French Pronunciation Datasets and Open Teaching Pack"
 type: dataset
 authors:
@@ -8,7 +8,6 @@ authors:
     affiliation: Tingnova Inc.
 version: "v2026.08.27"
 date-released: "2026-08-27"
-doi: 10.5281/zenodo.21932585
 url: "https://github.com/levindong2026/parle-french-pronunciation-data/releases/tag/v2026.08.27"
 repository-code: "https://github.com/levindong2026/parle-french-pronunciation-data"
 license: CC-BY-4.0
@@ -19,8 +18,7 @@ abstract: >-
   teaching pack with 35 audio clips, editable lesson plans, a bilingual learner
   worksheet, and answer key. The CSV files are unchanged from v2026.08.11. This
   is product documentation and open educational material, not an independent
-  review, linguistic standard, assessment, certification, or endorsement. The
-  DOI is the Zenodo concept DOI; no Zenodo v2026.08.27 archive is claimed.
+  review, linguistic standard, assessment, certification, or endorsement.
 keywords:
   - French pronunciation
   - International Phonetic Alphabet
@@ -34,3 +32,13 @@ keywords:
   - open teaching pack
   - French teaching resources
   - Parle
+references:
+  - type: data
+    title: "Parle French Pronunciation Datasets: 35-Sound Inventory and A0–A2 Speaking Course Map (v2026.08.11)"
+    authors:
+      - family-names: Dong
+        given-names: Ting
+        affiliation: Tingnova Inc.
+    version: "v2026.08.11"
+    year: 2026
+    doi: 10.5281/zenodo.21932586

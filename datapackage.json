@@ -5,7 +5,7 @@
   "description": "Two first-party open datasets documenting a bounded 35-entry beginner French sound inventory and the 120-mission A0-A2 speaking course map used by Parle: French Pronunciation, plus a printable teacher reference and an open teaching pack with audio, editable lesson plans, a bilingual worksheet, and answer key. This is product documentation and open educational material, not an independent review, assessment, certification, or endorsement.",
   "version": "v2026.08.27",
   "homepage": "https://getparle.app/press/",
-  "id": "https://doi.org/10.5281/zenodo.21932585",
+  "id": "https://github.com/levindong2026/parle-french-pronunciation-data/releases/tag/v2026.08.27",
   "licenses": [
     {
       "name": "CC-BY-4.0",

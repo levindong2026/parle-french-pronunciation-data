@@ -8,6 +8,8 @@ RELEASE_BASE = (
     "https://github.com/levindong2026/parle-french-pronunciation-data/"
     "releases/download/v2026.08.27/"
 )
+RELEASE_URL = RELEASE_BASE.replace("/download/", "/tag/").rstrip("/")
+CSV_ARCHIVE_DOI = "10.5281/zenodo.21932586"
 
 TEACHING_ASSETS = {
     "french-sound-chart-teacher-reference": {
@@ -65,6 +67,17 @@ class ReleaseMetadataTests(unittest.TestCase):
         self.assertEqual(len(rows), 5)
         for expected in TEACHING_ASSETS.values():
             self.assertEqual(rows[expected["filename"]], expected["hash"].removeprefix("sha256:"))
+
+    def test_package_and_csv_archive_have_separate_citation_targets(self):
+        package = json.loads((ROOT / "datapackage.json").read_text(encoding="utf-8"))
+        self.assertEqual(package["id"], RELEASE_URL)
+
+        citation = (ROOT / "CITATION.cff").read_text(encoding="utf-8")
+        primary_citation, archived_reference = citation.split("\nreferences:\n", 1)
+        self.assertIn(f'\nurl: "{RELEASE_URL}"', primary_citation)
+        self.assertNotRegex(primary_citation, r"(?m)^doi:")
+        self.assertIn('version: "v2026.08.11"', archived_reference)
+        self.assertIn(f"doi: {CSV_ARCHIVE_DOI}", archived_reference)
 
 
 if __name__ == "__main__":

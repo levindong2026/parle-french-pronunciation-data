@@ -166,9 +166,9 @@ The canonical CSV files are served from getparle.app. The copies in this reposit
 
 The current GitHub distribution is `v2026.08.27`. It includes the complete open teaching-pack ZIP, printable teacher-reference PDF, bilingual worksheet and answer key, machine-readable citation files, and SHA-256 checksums. The two CSV datasets are byte-for-byte unchanged from `v2026.08.11`.
 
-- [GitHub Release `v2026.08.27`](https://github.com/levindong2026/parle-french-pronunciation-data/releases/tag/v2026.08.27)
-- [Zenodo all-versions DOI `10.5281/zenodo.21932585`](https://doi.org/10.5281/zenodo.21932585)
-- [Archived Zenodo `v2026.08.11` record, DOI `10.5281/zenodo.21932586`](https://doi.org/10.5281/zenodo.21932586)
+- [Cite the GitHub teaching pack and printables, release `v2026.08.27`](https://github.com/levindong2026/parle-french-pronunciation-data/releases/tag/v2026.08.27)
+- [Cite the two archived CSV datasets, Zenodo `v2026.08.11` version DOI `10.5281/zenodo.21932586`](https://doi.org/10.5281/zenodo.21932586)
+- [Browse Zenodo versions of the CSV datasets, concept DOI `10.5281/zenodo.21932585`](https://doi.org/10.5281/zenodo.21932585)
 - [Hugging Face Dataset Viewer — `v2026.08.11` snapshot; GitHub `v2026.08.27` is current](https://huggingface.co/datasets/Levindong/parle-french-pronunciation-datasets)
 - [Kaggle Dataset — `v2026.08.27`; Kaggle expands the teaching-pack ZIP for per-file browsing](https://www.kaggle.com/datasets/levin2023/parle-french-pronunciation-datasets/versions/2)
 

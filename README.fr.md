@@ -164,9 +164,9 @@ Les CSV canoniques sont publiés sur `getparle.app`. Les copies de ce dépôt of
 
 La distribution GitHub actuelle est `v2026.08.27`. Elle comprend le dossier pédagogique ZIP complet, la référence PDF imprimable, la fiche bilingue et son corrigé, les métadonnées de citation et les sommes de contrôle SHA-256. Les deux CSV sont strictement identiques à ceux de `v2026.08.11`.
 
-- [Version GitHub `v2026.08.27`](https://github.com/levindong2026/parle-french-pronunciation-data/releases/tag/v2026.08.27)
-- [DOI Zenodo toutes versions `10.5281/zenodo.21932585`](https://doi.org/10.5281/zenodo.21932585)
-- [Archive Zenodo `v2026.08.11`, DOI `10.5281/zenodo.21932586`](https://doi.org/10.5281/zenodo.21932586)
+- [Citer le dossier pédagogique et les fiches imprimables, version GitHub `v2026.08.27`](https://github.com/levindong2026/parle-french-pronunciation-data/releases/tag/v2026.08.27)
+- [Citer les deux CSV archivés, version Zenodo `v2026.08.11`, DOI `10.5281/zenodo.21932586`](https://doi.org/10.5281/zenodo.21932586)
+- [Consulter les versions Zenodo des jeux de données CSV, DOI de collection `10.5281/zenodo.21932585`](https://doi.org/10.5281/zenodo.21932585)
 - [Jeu de données Hugging Face — instantané `v2026.08.11` ; GitHub `v2026.08.27` est la version actuelle](https://huggingface.co/datasets/Levindong/parle-french-pronunciation-datasets)
 - [Jeu de données Kaggle — `v2026.08.27` ; Kaggle développe le ZIP pédagogique pour une consultation fichier par fichier](https://www.kaggle.com/datasets/levin2023/parle-french-pronunciation-datasets/versions/2)
 - [Métadonnées de citation](./CITATION.cff)
