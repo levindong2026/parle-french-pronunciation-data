@@ -119,6 +119,7 @@ Ces leçons de première partie sont publiées par le développeur de Parle et o
 
 - CSV canonique : https://getparle.app/french-sound-chart.csv
 - Copie versionnée : [french-sound-chart.csv](./french-sound-chart.csv)
+- [Rechercher une graphie française ou un symbole API dans le CSV](./examples/french-sound-search.md) — exemple Python en anglais qui conserve les accents et la marque de nasalisation.
 - [Tableau imprimable en français avec un accès direct aux 35 sons](https://getparle.app/resources/tableau-35-sons-francais/)
 - [Référence imprimable pour enseignants en anglais (PDF A4 de 3 pages, CC BY 4.0)](https://getparle.app/french-sound-chart-teacher-reference.pdf)
 - Entraîneur interactif des voyelles avec 14 références audio locales : https://getparle.app/french-vowel-trainer/

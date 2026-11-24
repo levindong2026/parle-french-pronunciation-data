@@ -119,6 +119,7 @@ These are first-party, AI-assisted lessons published by the Parle developer. Vid
 
 - Canonical CSV: https://getparle.app/french-sound-chart.csv
 - Versioned repository copy: [french-sound-chart.csv](./french-sound-chart.csv)
+- [Search the CSV by French spelling or IPA](./examples/french-sound-search.md) — a runnable Python example that preserves accents and nasalization.
 - Human-readable reference: https://getparle.app/french-sound-chart/
 - [Printable teacher reference in English (3-page A4 PDF, CC BY 4.0)](https://getparle.app/french-sound-chart-teacher-reference.pdf)
 - [Printable French-language table with direct links to the 35 sounds](https://getparle.app/resources/tableau-35-sons-francais/)
