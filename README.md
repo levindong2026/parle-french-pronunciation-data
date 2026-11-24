@@ -109,7 +109,7 @@ The vowel clips model isolated sounds; written word examples are not whole-word 
 | Say you do not understand; ask for repetition | [Watch the lesson](https://www.youtube.com/watch?v=RliueiBjB94) | [Open matching practice](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_3-roleplay) |
 | Introduce yourself and take leave | [Watch the lesson](https://www.youtube.com/watch?v=5E0oLxD9IdM) | [Open matching practice](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_4-dialogue) |
 
-The videos and matching website exercises are free. In the optional Parle iPhone/iPad app, all 35 Sounds pages and the first four Course missions are free; the full 120-mission App course requires Premium. The videos do not record or score your voice.
+The videos and matching web exercises are free. In Parle for iPhone and iPad, the first four First Contact missions and 35 sound references are free. In [version 1.11.0](https://getparle.app/press/), Premium opens 128 missions, including eight seasonal missions. The videos do not record or score your voice.
 
 These are first-party, AI-assisted lessons published by the Parle developer. Video audio and graphics are separate works; the repository's CC BY 4.0 data/worksheet licence does not relicense the videos. See each video's description for its sources and reuse boundaries.
 
@@ -137,6 +137,8 @@ These are first-party, AI-assisted lessons published by the Parle developer. Vid
 The GitHub `v2026.08.27` ZIP above is the fixed release. The [current website ZIP](https://getparle.app/parle-french-sound-chart-open-teaching-pack.zip) uses the same filename and replaces six audio references. Its Parle classroom materials and 29 synthesized clips use CC BY 4.0. The six recorded IPA samples retain their individual CC BY-SA 3.0 or 4.0 licences. Their [source credits](https://getparle.app/french-sound-chart/#audio-sources) and the ZIP's `LICENSE.txt` identify the licence for each recording.
 
 ### A0–A2 speaking course map — 6 stages, 30 units, 120 missions
+
+The CSV follows the 120-mission website course. The eight seasonal missions are part of the iOS edition.
 
 - Canonical CSV: https://getparle.app/french-speaking-course-map.csv
 - Versioned repository copy: [french-speaking-course-map.csv](./french-speaking-course-map.csv)

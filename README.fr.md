@@ -109,7 +109,7 @@ Les extraits de voyelles donnent des sons isolés ; les mots écrits ne sont pas
 | Dire que l’on ne comprend pas ; demander de répéter | [Voir la leçon](https://www.youtube.com/watch?v=RliueiBjB94) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_3-roleplay) |
 | Se présenter et prendre congé | [Voir la leçon](https://www.youtube.com/watch?v=5E0oLxD9IdM) | [Ouvrir l’exercice associé](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=video_library_20261010#mission_a0_first_contact_4-dialogue) |
 
-Les vidéos et les exercices web associés sont gratuits. Dans l’application facultative Parle pour iPhone et iPad, les 35 pages Sounds et les quatre premières missions Course sont gratuites ; le parcours complet de 120 missions nécessite Premium. Les vidéos n’enregistrent et ne notent pas votre voix.
+Les vidéos et les exercices web associés sont gratuits. Dans Parle sur iPhone et iPad, les quatre premières missions « Premier contact » et les 35 références sonores sont gratuites. Dans la [version 1.11.0](https://getparle.app/press/), l’abonnement Premium donne accès à 128 missions, dont huit missions saisonnières. Les vidéos n’enregistrent et ne notent pas votre voix.
 
 Ces leçons de première partie sont publiées par le développeur de Parle et ont été produites avec l’aide de l’IA. Les sons et les visuels des vidéos sont des œuvres séparées : la licence CC BY 4.0 des données et des fiches de ce dépôt ne s’étend pas aux vidéos. Leurs descriptions précisent les sources et les limites de réutilisation.
 
@@ -138,6 +138,8 @@ Le ZIP GitHub `v2026.08.27` ci-dessus correspond à la version archivée. Le [ZI
 Le tableau présente, pour chaque entrée, le symbole API, des graphies fréquentes, des exemples et un repère articulatoire pratique. Les inventaires phonologiques du français varient selon les analyses et les variétés : cette sélection de 35 sons est un inventaire pédagogique délimité, et non l'unique analyse possible de la phonologie française.
 
 ### Parcours d'expression orale A0–A2 — 6 étapes, 30 unités, 120 missions
+
+Le CSV suit le parcours web de 120 missions. Les huit missions saisonnières font partie de l’édition iOS.
 
 - CSV canonique : https://getparle.app/french-speaking-course-map.csv
 - Copie versionnée : [french-speaking-course-map.csv](./french-speaking-course-map.csv)
