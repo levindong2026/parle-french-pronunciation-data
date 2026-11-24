@@ -1,0 +1,72 @@
+# Open teaching resources for discovery through the Open Educational Resources Search Index.
+- "@context": https://schema.org/
+  type: LearningResource
+  creativeWorkStatus: Published
+  id: https://getparle.app/resources/tableau-35-sons-francais/
+  name: Tableau pédagogique des 35 sons du français
+  description: >-
+    Repère de prononciation pour un cours d'initiation au français langue
+    étrangère. Il associe 35 entrées en alphabet phonétique international à
+    des graphies, à des exemples et à des indications articulatoires. Le tableau
+    écrit et le CSV téléchargeable sont sous licence CC BY 4.0. Les extraits
+    audio liés conservent leurs licences et leurs crédits indiqués sur le site.
+  inLanguage: fr
+  license: https://creativecommons.org/licenses/by/4.0/
+  creator:
+    - type: Organization
+      name: Tingnova Inc.
+  about:
+    - https://w3id.org/kim/hochschulfaechersystematik/n059
+  educationalLevel:
+    - https://w3id.org/kim/educationalLevel/level_A
+  learningResourceType:
+    - https://w3id.org/kim/hcrt/web_page
+    - https://w3id.org/kim/hcrt/data
+  keywords:
+    - français langue étrangère
+    - phonétique française
+    - alphabet phonétique international
+    - prononciation
+  hasPart:
+    - id: https://getparle.app/french-sound-chart.csv
+      name: Tableau des sons du français (CSV)
+
+- "@context": https://schema.org/
+  type: LearningResource
+  creativeWorkStatus: Published
+  id: https://getparle.app/ressources-pedagogiques-prononciation-francaise/#montreal-classroom-title
+  name: "Activité A1 en binôme : prendre les transports à Montréal"
+  description: >-
+    Activité complémentaire de 12 minutes pour un groupe débutant de français
+    langue étrangère, utilisable notamment dans un cours universitaire
+    d'initiation. Les apprenants repèrent deux règles dans le guide public de
+    la Société de transport de Montréal, puis justifient une réponse orale en
+    binôme. La fiche, les cartes individuelles et le corrigé de Parle sont
+    libres sous CC BY 4.0. Le guide de la STM est une publication distincte.
+  inLanguage: fr
+  license: https://creativecommons.org/licenses/by/4.0/
+  creator:
+    - type: Organization
+      name: Tingnova Inc.
+  about:
+    - https://w3id.org/kim/hochschulfaechersystematik/n059
+  educationalLevel:
+    - https://w3id.org/kim/educationalLevel/level_A
+  learningResourceType:
+    - https://w3id.org/kim/hcrt/worksheet
+    - https://w3id.org/kim/hcrt/lesson_plan
+  keywords:
+    - français langue étrangère
+    - français A1
+    - compréhension écrite
+    - interaction orale
+    - transports à Montréal
+  hasPart:
+    - id: https://getparle.app/montreal-transit-a1-fiche-fr.pdf
+      name: Fiche d'activité et cartes (PDF)
+    - id: https://getparle.app/montreal-transit-a1-corrige-fr.pdf
+      name: Corrigé et déroulement (PDF)
+    - id: https://getparle.app/montreal-transit-a1-carte-a-fr.pdf
+      name: "Carte A : le bus 45 (PDF)"
+    - id: https://getparle.app/montreal-transit-a1-carte-b-fr.pdf
+      name: "Carte B : l'heure d'arrivée (PDF)"
