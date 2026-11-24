@@ -16,6 +16,8 @@ Ce dépôt est une **publication officielle de données produite et maintenue pa
 
 [Accents du français : fiche avec consignes en anglais et en espagnol](./worksheets/french-accent-meaning-practice-en-es.md) — identifier quatre signes, choisir a/à et ou/où selon le sens, puis écrire deux nouvelles questions de café avant d’ouvrir le corrigé expliqué. Markdown gratuit et modifiable, à utiliser seul ou à deux ; sans audio ni note de prononciation. Cette fiche est distincte du ZIP pédagogique versionné.
 
+[Voyelles nasales : reconnaître le mot et le réemployer](./worksheets/french-nasal-vowels-listening-en-fr.md) — une activité A1 de 10 à 12 minutes avec trois références sonores, six mots à identifier, trois répliques en contexte et un corrigé. Consignes modifiables en français et en anglais, CC BY 4.0.
+
 [Ouvrir la collection pédagogique officielle](https://getparle.app/ressources-pedagogiques-prononciation-francaise/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#collection) — téléchargement direct du PDF, fiche modifiable et références audio gratuites. Aucune installation de l'application n'est nécessaire.
 
 ## Essayer une commande au café avec des explications en anglais ou en espagnol

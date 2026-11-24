@@ -16,6 +16,8 @@ This repository is an **official first-party data publication maintained by Parl
 
 [French accent marks: written practice with English or Spanish instructions](./worksheets/french-accent-meaning-practice-en-es.md) — identify four marks, choose a/à and ou/où by meaning, then write two new café questions before opening the explained answers. Free editable Markdown for individual or paired work; no audio or pronunciation score. This worksheet is separate from the versioned teaching-pack ZIP.
 
+[French nasal vowels: spot the word and use it](./worksheets/french-nasal-vowels-listening-en-fr.md) — a 10–12 minute A1 classroom activity with three sound references, six hidden-word prompts, three situational replies and a separate answer key. Editable English/French instructions, CC BY 4.0.
+
 [Use the official web resource collection](https://getparle.app/french-pronunciation-teaching-resources/?utm_source=github&utm_medium=referral&utm_campaign=worksheet_collection_20261009#resource-collection) — direct PDF download, editable worksheet and free audio references. No app installation is needed.
 
 ## Try a café order with English or Spanish explanations
