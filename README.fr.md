@@ -6,11 +6,13 @@ Ce dépôt est une **publication officielle de données produite et maintenue pa
 
 ## Commencer par une activité gratuite
 
-[Votre première conversation : fiche à imprimer en binôme](french-first-conversation-worksheet.pdf) - quatre tâches pour débutants, un corrigé séparé et les quatre vidéos publiées. [Source modifiable anglais/français](french-first-conversation-worksheet.md). Modèles web gratuits ; CC BY 4.0.
+[Votre première conversation : fiche à imprimer en binôme (PDF de novembre)](https://getparle.app/french-first-conversation-worksheet-2026-11.pdf) - quatre tâches pour débutants, un corrigé séparé et les quatre vidéos publiées. [Source modifiable anglais/français](french-first-conversation-worksheet.md). Modèles web gratuits ; CC BY 4.0.
 
 [Tu primera conversación en francés](worksheets/primera-conversacion-frances-es.md) propose les quatre activités en espagnol, avec une fiche à imprimer et un corrigé séparé.
 
-[Fiche é /e/ et è /ɛ/ à imprimer (deux pages)](french-e-open-closed-worksheet.pdf) - fiche élève et corrigé séparé, avec QR vers les références audio web gratuites. Source modifiable ci-dessous ; CC BY 4.0.
+[Fiche é /e/ et è /ɛ/ à imprimer (PDF de novembre, deux pages)](https://getparle.app/french-e-open-closed-worksheet-2026-11.pdf) - fiche élève et corrigé séparé, avec QR vers les références audio web gratuites. Source modifiable ci-dessous ; CC BY 4.0.
+
+Les éditions antérieures de [la fiche de conversation](french-first-conversation-worksheet.pdf) et de [la fiche é / è](french-e-open-closed-worksheet.pdf) restent disponibles dans les archives.
 
 [É /e/ et è /ɛ/ : fiche bilingue de cinq minutes](./french-e-open-closed-worksheet.md) — six mots, une phrase à lire, un corrigé et des références audio gratuites. L'activité web ne nécessite ni installation de l'application ni abonnement ; elle n'enregistre et ne note pas votre voix. Cette fiche a été ajoutée le 9 octobre 2026. Les anciens jeux de données et le ZIP pédagogique restent inchangés.
 

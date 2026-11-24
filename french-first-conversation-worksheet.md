@@ -4,7 +4,8 @@ A free printable partner activity for complete beginners, based on the four publ
 
 ## Print or listen
 
-- [Download the two-page worksheet](french-first-conversation-worksheet.pdf).
+- [Download the current two-page worksheet (November PDF)](https://getparle.app/french-first-conversation-worksheet-2026-11.pdf).
+- [Open the archived worksheet PDF](french-first-conversation-worksheet.pdf).
 - [Open the free model exchanges and four videos](https://getparle.app/french-speaking-course/first-contact/?utm_source=github&utm_medium=referral&utm_campaign=first_conversation_worksheet_20261010).
 - [Watch the four lessons in order](https://www.youtube.com/playlist?list=PLZyruv79fqTU).
 

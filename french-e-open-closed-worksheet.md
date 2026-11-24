@@ -2,7 +2,9 @@
 
 **English / Français · Beginners · Reviewed 9 October 2026**
 
-**Print for a class / Pour la classe :** [Download the two-page PDF](french-e-open-closed-worksheet.pdf) - learner worksheet and separate answer key, with audio QR/link. / Fiche élève et corrigé séparé, avec accès audio. This editable version and the PDF are free under CC BY 4.0.
+**Print for a class / Pour la classe :** [Download the two-page November PDF / Télécharger le PDF de novembre](https://getparle.app/french-e-open-closed-worksheet-2026-11.pdf) - learner worksheet and separate answer key, with audio QR/link. / Fiche élève et corrigé séparé, avec accès audio. This editable version and the PDF are free under CC BY 4.0.
+
+[Archived PDF / PDF archivé](french-e-open-closed-worksheet.pdf).
 
 Published by the Parle developer as a free teaching resource. The writing is AI-assisted; the examples were checked against the linked Parle guide. This is first-party educational material, not an independent recommendation or a test of pronunciation quality.
 
