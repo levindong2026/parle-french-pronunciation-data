@@ -41,8 +41,9 @@
     langue étrangère, utilisable notamment dans un cours universitaire
     d'initiation. Les apprenants repèrent deux règles dans le guide public de
     la Société de transport de Montréal, puis justifient une réponse orale en
-    binôme. La fiche, les cartes individuelles et le corrigé de Parle sont
-    libres sous CC BY 4.0. Le guide de la STM est une publication distincte.
+    binôme. La fiche, les cartes individuelles, le corrigé et la version
+    modifiable pour l'enseignant (DOCX) sont publiés par Parle sous licence
+    CC BY 4.0. Le guide de la STM est une publication distincte.
   inLanguage: fr
   license: https://creativecommons.org/licenses/by/4.0/
   creator:
@@ -70,3 +71,5 @@
       name: "Carte A : le bus 45 (PDF)"
     - id: https://getparle.app/montreal-transit-a1-carte-b-fr.pdf
       name: "Carte B : l'heure d'arrivée (PDF)"
+    - id: https://getparle.app/montreal-transit-a1-enseignant-fr.docx
+      name: Version modifiable pour l'enseignant (DOCX)
