@@ -84,8 +84,7 @@
     your name, ask for repetition and take leave. The second page gives
     possible answers. The two printable editions pair French prompts with
     English or Spanish instructions. CC BY 4.0 covers the authored worksheets
-    and answers. Linked media have their own terms. The app details on the
-    English edition refer to an earlier version.
+    and answers. Linked media have their own terms.
   inLanguage: [en, fr, es]
   license: https://creativecommons.org/licenses/by/4.0/
   creator:
@@ -103,7 +102,7 @@
     - greetings
     - introductions
   hasPart:
-    - id: https://getparle.app/french-first-conversation-worksheet.pdf
+    - id: https://getparle.app/french-first-conversation-worksheet-2026-11.pdf
       name: Partner worksheet and possible answers (English–French PDF)
     - id: https://getparle.app/french-first-conversation-worksheet-es.pdf
       name: Ficha de conversación y respuestas posibles (PDF español–francés)
@@ -118,7 +117,7 @@
     six written examples by the target vowel /e/ or /ɛ/, say a sample phrase
     and compare your choices with the second-page key. Instructions are in
     English and French. CC BY 4.0 covers this authored worksheet. Linked
-    reference media are separate, and the printed app details are historical.
+    reference media are separate.
   inLanguage: [en, fr]
   license: https://creativecommons.org/licenses/by/4.0/
   creator:
@@ -136,7 +135,7 @@
     - é and è
     - spelling
   hasPart:
-    - id: https://getparle.app/french-e-open-closed-worksheet.pdf
+    - id: https://getparle.app/french-e-open-closed-worksheet-2026-11.pdf
       name: Worksheet and answer key (English–French PDF)
 
 - "@context": https://schema.org/
